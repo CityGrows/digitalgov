@@ -1,7 +1,7 @@
 [
   {
     "Government name": "York, Pennsylvania",
-    "": "PA",
+    "State": "PA",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "In person",
@@ -11,7 +11,7 @@
   },
   {
     "Government name": "Gary, Indiana",
-    "": "IN",
+    "State": "IN",
     "Building online?": "Online (some)",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -21,7 +21,7 @@
   },
   {
     "Government name": "Troy, New York",
-    "": "NY",
+    "State": "NY",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "None found",
@@ -31,7 +31,7 @@
   },
   {
     "Government name": "Ames, Iowa",
-    "": "IA",
+    "State": "IA",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -41,7 +41,7 @@
   },
   {
     "Government name": "Lynn, Massachusetts",
-    "": "MA",
+    "State": "MA",
     "Building online?": "PDF",
     "Dog online?": "In person",
     "Business online?": "None found",
@@ -51,7 +51,7 @@
   },
   {
     "Government name": "Erie, Pennsylvania",
-    "": "PA",
+    "State": "PA",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "None found",
@@ -61,7 +61,7 @@
   },
   {
     "Government name": "Yuma, Arizona",
-    "": "AZ",
+    "State": "AZ",
     "Building online?": "None found",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -71,7 +71,7 @@
   },
   {
     "Government name": "Kyle, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "Online",
     "Dog online?": "Online (some)",
     "Business online?": "None found",
@@ -81,7 +81,7 @@
   },
   {
     "Government name": "Waco, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "Online",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -91,7 +91,7 @@
   },
   {
     "Government name": "Orem, Utah",
-    "": "UT",
+    "State": "UT",
     "Building online?": "Online (some)",
     "Dog online?": "in person",
     "Business online?": "Online",
@@ -101,7 +101,7 @@
   },
   {
     "Government name": "Brea, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "In person",
     "Dog online?": "Online",
     "Business online?": "Online",
@@ -111,7 +111,7 @@
   },
   {
     "Government name": "Lehi, Utah",
-    "": "UT",
+    "State": "UT",
     "Building online?": "PDF",
     "Dog online?": "In person",
     "Business online?": "Online",
@@ -121,7 +121,7 @@
   },
   {
     "Government name": "Napa, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "In person/ mail",
     "Business online?": "PDF",
@@ -131,7 +131,7 @@
   },
   {
     "Government name": "Bend, Oregon",
-    "": "OR",
+    "State": "OR",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "Online (some)",
@@ -141,7 +141,7 @@
   },
   {
     "Government name": "Kent, Washington",
-    "": "WA",
+    "State": "WA",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -151,7 +151,7 @@
   },
   {
     "Government name": "Novi, Michigan",
-    "": "MI",
+    "State": "MI",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -161,7 +161,7 @@
   },
   {
     "Government name": "Lodi, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -171,7 +171,7 @@
   },
   {
     "Government name": "Troy, Michigan",
-    "": "MI",
+    "State": "MI",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -181,7 +181,7 @@
   },
   {
     "Government name": "Enid, Oklahoma",
-    "": "OK",
+    "State": "OK",
     "Building online?": "PDF",
     "Dog online?": "in person",
     "Business online?": "PDF",
@@ -191,7 +191,7 @@
   },
   {
     "Government name": "Parma, Ohio",
-    "": "OH",
+    "State": "OH",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -201,7 +201,7 @@
   },
   {
     "Government name": "Chico, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "Online (some)",
     "Dog online?": "Online",
     "Business online?": "Online",
@@ -211,7 +211,7 @@
   },
   {
     "Government name": "Pharr, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -221,7 +221,7 @@
   },
   {
     "Government name": "Flint, Michigan",
-    "": "MI",
+    "State": "MI",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "In person",
@@ -231,7 +231,7 @@
   },
   {
     "Government name": "Wylie, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "PDF",
     "Dog online?": "In person/ mail",
     "Business online?": "None found",
@@ -241,7 +241,7 @@
   },
   {
     "Government name": "Utica, New York",
-    "": "NY",
+    "State": "NY",
     "Building online?": "PDF",
     "Dog online?": "In person",
     "Business online?": "In person",
@@ -251,7 +251,7 @@
   },
   {
     "Government name": "Doral, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -261,7 +261,7 @@
   },
   {
     "Government name": "Edina, Minnesota",
-    "": "MN",
+    "State": "MN",
     "Building online?": "Online",
     "Dog online?": "Online",
     "Business online?": "None found",
@@ -271,7 +271,7 @@
   },
   {
     "Government name": "Fargo, North Dakota",
-    "": "ND",
+    "State": "ND",
     "Building online?": "Online",
     "Dog online?": "Online",
     "Business online?": "None found",
@@ -281,7 +281,7 @@
   },
   {
     "Government name": "Allen, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "Online (some)",
     "Dog online?": "Online (some)",
     "Business online?": "None found",
@@ -291,7 +291,7 @@
   },
   {
     "Government name": "Tyler, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "Online",
     "Dog online?": "None found",
     "Business online?": "Online",
@@ -301,7 +301,7 @@
   },
   {
     "Government name": "Minot, North Dakota",
-    "": "ND",
+    "State": "ND",
     "Building online?": "PDF",
     "Dog online?": "Vet",
     "Business online?": "None found",
@@ -311,7 +311,7 @@
   },
   {
     "Government name": "Ocoee, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "Online (some)",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -321,7 +321,7 @@
   },
   {
     "Government name": "Ceres, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -331,7 +331,7 @@
   },
   {
     "Government name": "Azusa, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "Online",
@@ -341,7 +341,7 @@
   },
   {
     "Government name": "Moore, Oklahoma",
-    "": "OK",
+    "State": "OK",
     "Building online?": "PDF",
     "Dog online?": "In person",
     "Business online?": "Online (some)",
@@ -351,7 +351,7 @@
   },
   {
     "Government name": "Eagan, Minnesota",
-    "": "MN",
+    "State": "MN",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "None found",
@@ -361,7 +361,7 @@
   },
   {
     "Government name": "Largo, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "In person",
@@ -371,7 +371,7 @@
   },
   {
     "Government name": "Bryan, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -381,7 +381,7 @@
   },
   {
     "Government name": "Elgin, Illinois",
-    "": "IL",
+    "State": "IL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -391,7 +391,7 @@
   },
   {
     "Government name": "Lacey, Washington",
-    "": "WA",
+    "State": "WA",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "Online (some)",
@@ -401,7 +401,7 @@
   },
   {
     "Government name": "Logan, Utah",
-    "": "UT",
+    "State": "UT",
     "Building online?": "PDF",
     "Dog online?": "In person",
     "Business online?": "PDF",
@@ -411,7 +411,7 @@
   },
   {
     "Government name": "Bowie, Maryland",
-    "": "MD",
+    "State": "MD",
     "Building online?": "In person",
     "Dog online?": "PDF",
     "Business online?": "None found",
@@ -421,7 +421,7 @@
   },
   {
     "Government name": "Ocala, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -431,7 +431,7 @@
   },
   {
     "Government name": "Provo, Utah",
-    "": "UT",
+    "State": "UT",
     "Building online?": "Online",
     "Dog online?": "Online",
     "Business online?": "Online",
@@ -441,7 +441,7 @@
   },
   {
     "Government name": "Poway, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "Online",
@@ -451,7 +451,7 @@
   },
   {
     "Government name": "Pasco, Washington",
-    "": "WA",
+    "State": "WA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "Online (some)",
@@ -461,7 +461,7 @@
   },
   {
     "Government name": "Indio, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -471,7 +471,7 @@
   },
   {
     "Government name": "Tracy, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "Online (some)",
     "Dog online?": "PDF",
     "Business online?": "Online",
@@ -481,7 +481,7 @@
   },
   {
     "Government name": "Vista, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "Online",
@@ -491,7 +491,7 @@
   },
   {
     "Government name": "Salem, Oregon",
-    "": "OR",
+    "State": "OR",
     "Building online?": "Online",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -501,7 +501,7 @@
   },
   {
     "Government name": "Davis, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -511,7 +511,7 @@
   },
   {
     "Government name": "Ogden, Utah",
-    "": "UT",
+    "State": "UT",
     "Building online?": "PDF",
     "Dog online?": "in person",
     "Business online?": "PDF",
@@ -521,7 +521,7 @@
   },
   {
     "Government name": "Chino, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -531,7 +531,7 @@
   },
   {
     "Government name": "Nampa, Idaho",
-    "": "ID",
+    "State": "ID",
     "Building online?": "Online (some)",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -541,7 +541,7 @@
   },
   {
     "Government name": "Sandy, Utah",
-    "": "UT",
+    "State": "UT",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -551,7 +551,7 @@
   },
   {
     "Government name": "Salem, Massachusetts",
-    "": "MA",
+    "State": "MA",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -561,7 +561,7 @@
   },
   {
     "Government name": "Hemet, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -571,7 +571,7 @@
   },
   {
     "Government name": "Biloxi, Mississippi",
-    "": "MS",
+    "State": "MS",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -581,7 +581,7 @@
   },
   {
     "Government name": "Linden, New Jersey",
-    "": "NJ",
+    "State": "NJ",
     "Building online?": "None found",
     "Dog online?": "Online",
     "Business online?": "None found",
@@ -591,7 +591,7 @@
   },
   {
     "Government name": "Newark, Ohio",
-    "": "OH",
+    "State": "OH",
     "Building online?": "None found",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -601,7 +601,7 @@
   },
   {
     "Government name": "Elyria, Ohio",
-    "": "OH",
+    "State": "OH",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "None found",
@@ -611,7 +611,7 @@
   },
   {
     "Government name": "Albany, Oregon",
-    "": "OR",
+    "State": "OR",
     "Building online?": "Online",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -621,7 +621,7 @@
   },
   {
     "Government name": "Kokomo, Indiana",
-    "": "IN",
+    "State": "IN",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -631,7 +631,7 @@
   },
   {
     "Government name": "DeSoto, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -641,7 +641,7 @@
   },
   {
     "Government name": "Euless, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "Online",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -651,7 +651,7 @@
   },
   {
     "Government name": "Conroe, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "Online (some)",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -661,7 +661,7 @@
   },
   {
     "Government name": "Conway, Arkansas",
-    "": "AR",
+    "State": "AR",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -671,7 +671,7 @@
   },
   {
     "Government name": "Kenner, Louisiana",
-    "": "LA",
+    "State": "LA",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -681,7 +681,7 @@
   },
   {
     "Government name": "Muncie, Indiana",
-    "": "IN",
+    "State": "IN",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -691,7 +691,7 @@
   },
   {
     "Government name": "Weston, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "Online",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -701,7 +701,7 @@
   },
   {
     "Government name": "Carmel, Indiana",
-    "": "IN",
+    "State": "IN",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -711,7 +711,7 @@
   },
   {
     "Government name": "Albany, New York",
-    "": "NY",
+    "State": "NY",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -721,7 +721,7 @@
   },
   {
     "Government name": "Monroe, Louisiana",
-    "": "LA",
+    "State": "LA",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -731,7 +731,7 @@
   },
   {
     "Government name": "Malden, Massachusetts",
-    "": "MA",
+    "State": "MA",
     "Building online?": "Online",
     "Dog online?": "Online",
     "Business online?": "None found",
@@ -741,7 +741,7 @@
   },
   {
     "Government name": "Dublin, Ohio",
-    "": "OH",
+    "State": "OH",
     "Building online?": "Online",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -751,7 +751,7 @@
   },
   {
     "Government name": "Wilson, North Carolina",
-    "": "NC",
+    "State": "NC",
     "Building online?": "Online (some)",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -761,7 +761,7 @@
   },
   {
     "Government name": "Layton, Utah",
-    "": "UT",
+    "State": "UT",
     "Building online?": "Online",
     "Dog online?": "vet",
     "Business online?": "Online",
@@ -771,7 +771,7 @@
   },
   {
     "Government name": "Euclid, Ohio",
-    "": "OH",
+    "State": "OH",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "None found",
@@ -781,7 +781,7 @@
   },
   {
     "Government name": "Covina, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "Online",
@@ -791,7 +791,7 @@
   },
   {
     "Government name": "Apopka, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "Online",
     "Dog online?": "None found",
     "Business online?": "In person",
@@ -801,7 +801,7 @@
   },
   {
     "Government name": "Dothan, Alabama",
-    "": "AL",
+    "State": "AL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -811,7 +811,7 @@
   },
   {
     "Government name": "Canton, Ohio",
-    "": "OH",
+    "State": "OH",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -821,7 +821,7 @@
   },
   {
     "Government name": "Edmond, Oklahoma",
-    "": "OK",
+    "State": "OK",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -831,7 +831,7 @@
   },
   {
     "Government name": "Quincy, Massachusetts",
-    "": "MA",
+    "State": "MA",
     "Building online?": "Online",
     "Dog online?": "PDF",
     "Business online?": "None found",
@@ -841,7 +841,7 @@
   },
   {
     "Government name": "Dayton, Ohio",
-    "": "OH",
+    "State": "OH",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -851,7 +851,7 @@
   },
   {
     "Government name": "Woburn, Massachusetts",
-    "": "MA",
+    "State": "MA",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -861,7 +861,7 @@
   },
   {
     "Government name": "Oakley, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -871,7 +871,7 @@
   },
   {
     "Government name": "Lompoc, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -881,7 +881,7 @@
   },
   {
     "Government name": "Keller, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "PDF",
     "Dog online?": "In person",
     "Business online?": "None found",
@@ -891,7 +891,7 @@
   },
   {
     "Government name": "Smyrna, Georgia",
-    "": "GA",
+    "State": "GA",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -901,7 +901,7 @@
   },
   {
     "Government name": "Lorain, Ohio",
-    "": "OH",
+    "State": "OH",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -911,7 +911,7 @@
   },
   {
     "Government name": "Quincy, Illinois",
-    "": "IL",
+    "State": "IL",
     "Building online?": "PDF",
     "Dog online?": "vet",
     "Business online?": "PDF",
@@ -921,7 +921,7 @@
   },
   {
     "Government name": "Berwyn, Illinois",
-    "": "IL",
+    "State": "IL",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "Online (some)",
@@ -931,7 +931,7 @@
   },
   {
     "Government name": "Camden, New Jersey",
-    "": "NJ",
+    "State": "NJ",
     "Building online?": "In person",
     "Dog online?": "In person/ mail",
     "Business online?": "In person",
@@ -941,7 +941,7 @@
   },
   {
     "Government name": "Eugene, Oregon",
-    "": "OR",
+    "State": "OR",
     "Building online?": "Online",
     "Dog online?": "Online (some)",
     "Business online?": "None found",
@@ -951,7 +951,7 @@
   },
   {
     "Government name": "Sparks, Nevada",
-    "": "NV",
+    "State": "NV",
     "Building online?": "Online (some)",
     "Dog online?": "None found",
     "Business online?": "Online",
@@ -961,7 +961,7 @@
   },
   {
     "Government name": "Orange, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "Online",
     "Dog online?": "None found",
     "Business online?": "Online (some)",
@@ -971,7 +971,7 @@
   },
   {
     "Government name": "Oviedo, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "In person",
@@ -981,7 +981,7 @@
   },
   {
     "Government name": "Burien, Washington",
-    "": "WA",
+    "State": "WA",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -991,7 +991,7 @@
   },
   {
     "Government name": "Revere, Massachusetts",
-    "": "MA",
+    "State": "MA",
     "Building online?": "Online",
     "Dog online?": "PDF",
     "Business online?": "Online (some)",
@@ -1001,7 +1001,7 @@
   },
   {
     "Government name": "Tigard, Oregon",
-    "": "OR",
+    "State": "OR",
     "Building online?": "Online (some)",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -1011,7 +1011,7 @@
   },
   {
     "Government name": "Rogers, Arkansas",
-    "": "AR",
+    "State": "AR",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -1021,7 +1021,7 @@
   },
   {
     "Government name": "Hoover, Alabama",
-    "": "AL",
+    "State": "AL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -1031,7 +1031,7 @@
   },
   {
     "Government name": "Duluth, Minnesota",
-    "": "MN",
+    "State": "MN",
     "Building online?": "Online (some)",
     "Dog online?": "PDF",
     "Business online?": "None found",
@@ -1041,7 +1041,7 @@
   },
   {
     "Government name": "Newton, Massachusetts",
-    "": "MA",
+    "State": "MA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "None found",
@@ -1051,7 +1051,7 @@
   },
   {
     "Government name": "Downey, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "Online",
@@ -1061,7 +1061,7 @@
   },
   {
     "Government name": "Moline, Illinois",
-    "": "IL",
+    "State": "IL",
     "Building online?": "PDF",
     "Dog online?": "Vet",
     "Business online?": "PDF",
@@ -1071,7 +1071,7 @@
   },
   {
     "Government name": "Urbana, Illinois",
-    "": "IL",
+    "State": "IL",
     "Building online?": "Online (some)",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -1081,7 +1081,7 @@
   },
   {
     "Government name": "Casper, Wyoming",
-    "": "WY",
+    "State": "WY",
     "Building online?": "Online",
     "Dog online?": "In person",
     "Business online?": "PDF",
@@ -1091,7 +1091,7 @@
   },
   {
     "Government name": "Temple, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "Online",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -1101,7 +1101,7 @@
   },
   {
     "Government name": "Nashua, New Hampshire",
-    "": "NH",
+    "State": "NH",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -1111,7 +1111,7 @@
   },
   {
     "Government name": "Carson, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "In person",
     "Dog online?": "None found",
     "Business online?": "Online",
@@ -1121,7 +1121,7 @@
   },
   {
     "Government name": "Pueblo, Colorado",
-    "": "CO",
+    "State": "CO",
     "Building online?": "Online (some)",
     "Dog online?": "In person",
     "Business online?": "PDF",
@@ -1131,7 +1131,7 @@
   },
   {
     "Government name": "Clovis, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "in person/ mail",
     "Business online?": "Online",
@@ -1141,7 +1141,7 @@
   },
   {
     "Government name": "Odessa, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "In person",
@@ -1151,7 +1151,7 @@
   },
   {
     "Government name": "Topeka, Kansas",
-    "": "KS",
+    "State": "KS",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "None found",
@@ -1161,7 +1161,7 @@
   },
   {
     "Government name": "Denton, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "Online",
     "Dog online?": "PDF",
     "Business online?": "None found",
@@ -1171,7 +1171,7 @@
   },
   {
     "Government name": "DeKalb, Illinois",
-    "": "IL",
+    "State": "IL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -1181,7 +1181,7 @@
   },
   {
     "Government name": "Mentor, Ohio",
-    "": "OH",
+    "State": "OH",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "None found",
@@ -1191,7 +1191,7 @@
   },
   {
     "Government name": "Newark, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -1201,7 +1201,7 @@
   },
   {
     "Government name": "Tulare, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -1211,7 +1211,7 @@
   },
   {
     "Government name": "Auburn, Alabama",
-    "": "AL",
+    "State": "AL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -1221,7 +1221,7 @@
   },
   {
     "Government name": "Albany, Georgia",
-    "": "GA",
+    "State": "GA",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -1231,7 +1231,7 @@
   },
   {
     "Government name": "Lawton, Oklahoma",
-    "": "OK",
+    "State": "OK",
     "Building online?": "PDF",
     "Dog online?": "In person",
     "Business online?": "In person",
@@ -1241,7 +1241,7 @@
   },
   {
     "Government name": "Peoria, Illinois",
-    "": "IL",
+    "State": "IL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -1251,7 +1251,7 @@
   },
   {
     "Government name": "Warren, Michigan",
-    "": "MI",
+    "State": "MI",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -1261,7 +1261,7 @@
   },
   {
     "Government name": "Joliet, Illinois",
-    "": "IL",
+    "State": "IL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -1271,7 +1271,7 @@
   },
   {
     "Government name": "Arvada, Colorado",
-    "": "CO",
+    "State": "CO",
     "Building online?": "Online (some)",
     "Dog online?": "Online (some)",
     "Business online?": "Online",
@@ -1281,7 +1281,7 @@
   },
   {
     "Government name": "Lenexa, Kansas",
-    "": "KS",
+    "State": "KS",
     "Building online?": "Online",
     "Dog online?": "Online (some)",
     "Business online?": "Online (some)",
@@ -1291,7 +1291,7 @@
   },
   {
     "Government name": "Novato, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "Online (some)",
     "Dog online?": "Online (some)",
     "Business online?": "Online (some)",
@@ -1301,7 +1301,7 @@
   },
   {
     "Government name": "Tustin, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "Online",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -1311,7 +1311,7 @@
   },
   {
     "Government name": "Salina, Kansas",
-    "": "KS",
+    "State": "KS",
     "Building online?": "Online",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -1321,7 +1321,7 @@
   },
   {
     "Government name": "Santee, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "Online (some)",
@@ -1331,7 +1331,7 @@
   },
   {
     "Government name": "Taylor, Michigan",
-    "": "MI",
+    "State": "MI",
     "Building online?": "PDF",
     "Dog online?": "In person",
     "Business online?": "Online",
@@ -1341,7 +1341,7 @@
   },
   {
     "Government name": "Olathe, Kansas",
-    "": "KS",
+    "State": "KS",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -1351,7 +1351,7 @@
   },
   {
     "Government name": "Peoria, Arizona",
-    "": "AZ",
+    "State": "AZ",
     "Building online?": "Online (some)",
     "Dog online?": "In person",
     "Business online?": "Online",
@@ -1361,7 +1361,7 @@
   },
   {
     "Government name": "Draper, Utah",
-    "": "UT",
+    "State": "UT",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "Online",
@@ -1371,7 +1371,7 @@
   },
   {
     "Government name": "Gilroy, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -1381,7 +1381,7 @@
   },
   {
     "Government name": "Folsom, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "Online",
@@ -1391,7 +1391,7 @@
   },
   {
     "Government name": "Auburn, Washington",
-    "": "WA",
+    "State": "WA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -1401,7 +1401,7 @@
   },
   {
     "Government name": "Renton, Washington",
-    "": "WA",
+    "State": "WA",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "Online (some)",
@@ -1411,7 +1411,7 @@
   },
   {
     "Government name": "Pomona, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "Online",
@@ -1421,7 +1421,7 @@
   },
   {
     "Government name": "Corona, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "Online",
@@ -1431,7 +1431,7 @@
   },
   {
     "Government name": "Joplin, Missouri",
-    "": "MO",
+    "State": "MO",
     "Building online?": "In person",
     "Dog online?": "In person",
     "Business online?": "PDF",
@@ -1441,7 +1441,7 @@
   },
   {
     "Government name": "Colton, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "In person",
     "Business online?": "Online",
@@ -1451,7 +1451,7 @@
   },
   {
     "Government name": "Blaine, Minnesota",
-    "": "MN",
+    "State": "MN",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -1461,7 +1461,7 @@
   },
   {
     "Government name": "Ankeny, Iowa",
-    "": "IA",
+    "State": "IA",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -1471,7 +1471,7 @@
   },
   {
     "Government name": "Upland, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "Online (some)",
@@ -1481,7 +1481,7 @@
   },
   {
     "Government name": "Racine, Wisconsin",
-    "": "WI",
+    "State": "WI",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -1491,7 +1491,7 @@
   },
   {
     "Government name": "Perris, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "Online (some)",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -1501,7 +1501,7 @@
   },
   {
     "Government name": "Merced, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -1511,7 +1511,7 @@
   },
   {
     "Government name": "Yakima, Washington",
-    "": "WA",
+    "State": "WA",
     "Building online?": "Online (some)",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -1521,7 +1521,7 @@
   },
   {
     "Government name": "Rialto, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -1531,7 +1531,7 @@
   },
   {
     "Government name": "Lowell, Massachusetts",
-    "": "MA",
+    "State": "MA",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -1541,7 +1541,7 @@
   },
   {
     "Government name": "Norman, Oklahoma",
-    "": "OK",
+    "State": "OK",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -1551,7 +1551,7 @@
   },
   {
     "Government name": "Murray, Utah",
-    "": "UT",
+    "State": "UT",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -1561,7 +1561,7 @@
   },
   {
     "Government name": "Delano, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -1571,7 +1571,7 @@
   },
   {
     "Government name": "Dublin, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -1581,7 +1581,7 @@
   },
   {
     "Government name": "Madera, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "In person",
     "Business online?": "PDF",
@@ -1591,7 +1591,7 @@
   },
   {
     "Government name": "Passaic, New Jersey",
-    "": "NJ",
+    "State": "NJ",
     "Building online?": "None found",
     "Dog online?": "in person",
     "Business online?": "PDF",
@@ -1601,7 +1601,7 @@
   },
   {
     "Government name": "Beverly, Massachusetts",
-    "": "MA",
+    "State": "MA",
     "Building online?": "Online",
     "Dog online?": "Online",
     "Business online?": "None found",
@@ -1611,7 +1611,7 @@
   },
   {
     "Government name": "Holyoke, Massachusetts",
-    "": "MA",
+    "State": "MA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "None found",
@@ -1621,7 +1621,7 @@
   },
   {
     "Government name": "Weslaco, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -1631,7 +1631,7 @@
   },
   {
     "Government name": "Bozeman, Montana",
-    "": "MT",
+    "State": "MT",
     "Building online?": "Online",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -1641,7 +1641,7 @@
   },
   {
     "Government name": "Decatur, Alabama",
-    "": "AL",
+    "State": "AL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "In person",
@@ -1651,7 +1651,7 @@
   },
   {
     "Government name": "Bayonne, New Jersey",
-    "": "NJ",
+    "State": "NJ",
     "Building online?": "PDF",
     "Dog online?": "In person",
     "Business online?": "None found",
@@ -1661,7 +1661,7 @@
   },
   {
     "Government name": "Jackson, Tennessee",
-    "": "TN",
+    "State": "TN",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -1671,7 +1671,7 @@
   },
   {
     "Government name": "Norwalk, Connecticut",
-    "": "CT",
+    "State": "CT",
     "Building online?": "None found",
     "Dog online?": "PDF",
     "Business online?": "None found",
@@ -1681,7 +1681,7 @@
   },
   {
     "Government name": "Concord, North Carolina",
-    "": "NC",
+    "State": "NC",
     "Building online?": "Online",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -1691,7 +1691,7 @@
   },
   {
     "Government name": "Jackson, Mississippi",
-    "": "MS",
+    "State": "MS",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -1701,7 +1701,7 @@
   },
   {
     "Government name": "Fishers, Indiana",
-    "": "IN",
+    "State": "IN",
     "Building online?": "Online",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -1711,7 +1711,7 @@
   },
   {
     "Government name": "Taunton, Massachusetts",
-    "": "MA",
+    "State": "MA",
     "Building online?": "Online (some)",
     "Dog online?": "Online",
     "Business online?": "None found",
@@ -1721,7 +1721,7 @@
   },
   {
     "Government name": "Lynwood, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "None found",
     "Dog online?": "Online (some)",
     "Business online?": "Online (some)",
@@ -1731,7 +1731,7 @@
   },
   {
     "Government name": "Danbury, Connecticut",
-    "": "CT",
+    "State": "CT",
     "Building online?": "Online",
     "Dog online?": "PDF",
     "Business online?": "None found",
@@ -1741,7 +1741,7 @@
   },
   {
     "Government name": "Gresham, Oregon",
-    "": "OR",
+    "State": "OR",
     "Building online?": "Online",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -1751,7 +1751,7 @@
   },
   {
     "Government name": "McAllen, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "Online (some)",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -1761,7 +1761,7 @@
   },
   {
     "Government name": "Hickory, North Carolina",
-    "": "NC",
+    "State": "NC",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -1771,7 +1771,7 @@
   },
   {
     "Government name": "Findlay, Ohio",
-    "": "OH",
+    "State": "OH",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "None found",
@@ -1781,7 +1781,7 @@
   },
   {
     "Government name": "Elkhart, Indiana",
-    "": "IN",
+    "State": "IN",
     "Building online?": "Online",
     "Dog online?": "PDF",
     "Business online?": "None found",
@@ -1791,7 +1791,7 @@
   },
   {
     "Government name": "Milford  (balance), Connecticut",
-    "": "CT",
+    "State": "CT",
     "Building online?": "Online (some)",
     "Dog online?": "PDF",
     "Business online?": "None found",
@@ -1801,7 +1801,7 @@
   },
   {
     "Government name": "Medford, Massachusetts",
-    "": "MA",
+    "State": "MA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "None found",
@@ -1811,7 +1811,7 @@
   },
   {
     "Government name": "Margate, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -1821,7 +1821,7 @@
   },
   {
     "Government name": "Meriden, Connecticut",
-    "": "CT",
+    "State": "CT",
     "Building online?": "Online (some)",
     "Dog online?": "PDF",
     "Business online?": "None found",
@@ -1831,7 +1831,7 @@
   },
   {
     "Government name": "Hammond, Indiana",
-    "": "IN",
+    "State": "IN",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -1841,7 +1841,7 @@
   },
   {
     "Government name": "Miramar, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -1851,7 +1851,7 @@
   },
   {
     "Government name": "Concord, New Hampshire",
-    "": "NH",
+    "State": "NH",
     "Building online?": "PDF",
     "Dog online?": "In person",
     "Business online?": "None found",
@@ -1861,7 +1861,7 @@
   },
   {
     "Government name": "Altoona, Pennsylvania",
-    "": "PA",
+    "State": "PA",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -1871,7 +1871,7 @@
   },
   {
     "Government name": "Trenton, New Jersey",
-    "": "NJ",
+    "State": "NJ",
     "Building online?": "None found",
     "Dog online?": "In person",
     "Business online?": "PDF",
@@ -1881,7 +1881,7 @@
   },
   {
     "Government name": "Clifton, New Jersey",
-    "": "NJ",
+    "State": "NJ",
     "Building online?": "In person",
     "Dog online?": "PDF",
     "Business online?": "None found",
@@ -1891,7 +1891,7 @@
   },
   {
     "Government name": "Midland, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -1901,7 +1901,7 @@
   },
   {
     "Government name": "Killeen, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -1911,7 +1911,7 @@
   },
   {
     "Government name": "Shelton, Connecticut",
-    "": "CT",
+    "State": "CT",
     "Building online?": "PDF",
     "Dog online?": "in person",
     "Business online?": "In person",
@@ -1921,7 +1921,7 @@
   },
   {
     "Government name": "Lincoln, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -1931,7 +1931,7 @@
   },
   {
     "Government name": "Mission, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -1941,7 +1941,7 @@
   },
   {
     "Government name": "Boulder, Colorado",
-    "": "CO",
+    "State": "CO",
     "Building online?": "Online (some)",
     "Dog online?": "Online",
     "Business online?": "Online",
@@ -1951,7 +1951,7 @@
   },
   {
     "Government name": "Portage, Michigan",
-    "": "MI",
+    "State": "MI",
     "Building online?": "Online",
     "Dog online?": "PDF",
     "Business online?": "None found",
@@ -1961,7 +1961,7 @@
   },
   {
     "Government name": "Dubuque, Iowa",
-    "": "IA",
+    "State": "IA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "None found",
@@ -1971,7 +1971,7 @@
   },
   {
     "Government name": "Wyoming, Michigan",
-    "": "MI",
+    "State": "MI",
     "Building online?": "Online",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -1981,7 +1981,7 @@
   },
   {
     "Government name": "Midland, Michigan",
-    "": "MI",
+    "State": "MI",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "None found",
@@ -1991,7 +1991,7 @@
   },
   {
     "Government name": "Coppell, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "Online (some)",
     "Dog online?": "PDF",
     "Business online?": "None found",
@@ -2001,7 +2001,7 @@
   },
   {
     "Government name": "Cypress, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "Online",
@@ -2011,7 +2011,7 @@
   },
   {
     "Government name": "Olympia, Washington",
-    "": "WA",
+    "State": "WA",
     "Building online?": "Online",
     "Dog online?": "None found",
     "Business online?": "Online (some)",
@@ -2021,7 +2021,7 @@
   },
   {
     "Government name": "Bristol, Connecticut",
-    "": "CT",
+    "State": "CT",
     "Building online?": "Online",
     "Dog online?": "PDF",
     "Business online?": "None found",
@@ -2031,7 +2031,7 @@
   },
   {
     "Government name": "Sanford, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "Online",
     "Dog online?": "None found",
     "Business online?": "Online",
@@ -2041,7 +2041,7 @@
   },
   {
     "Government name": "Tamarac, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -2051,7 +2051,7 @@
   },
   {
     "Government name": "Buckeye, Arizona",
-    "": "AZ",
+    "State": "AZ",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "Online",
@@ -2061,7 +2061,7 @@
   },
   {
     "Government name": "Compton, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "Online",
     "Dog online?": "Online (some)",
     "Business online?": "Online",
@@ -2071,7 +2071,7 @@
   },
   {
     "Government name": "Concord, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "Online (some)",
     "Dog online?": "None found",
     "Business online?": "Online (some)",
@@ -2081,7 +2081,7 @@
   },
   {
     "Government name": "Everett, Massachusetts",
-    "": "MA",
+    "State": "MA",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -2091,7 +2091,7 @@
   },
   {
     "Government name": "Wheaton, Illinois",
-    "": "IL",
+    "State": "IL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -2101,7 +2101,7 @@
   },
   {
     "Government name": "Leander, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "Online",
     "Dog online?": "In person",
     "Business online?": "None found",
@@ -2111,7 +2111,7 @@
   },
   {
     "Government name": "Waltham, Massachusetts",
-    "": "MA",
+    "State": "MA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "None found",
@@ -2121,7 +2121,7 @@
   },
   {
     "Government name": "Shawnee, Kansas",
-    "": "KS",
+    "State": "KS",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -2131,7 +2131,7 @@
   },
   {
     "Government name": "Oshkosh, Wisconsin",
-    "": "WI",
+    "State": "WI",
     "Building online?": "PDF",
     "Dog online?": "In person",
     "Business online?": "None found",
@@ -2141,7 +2141,7 @@
   },
   {
     "Government name": "Baytown, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -2151,7 +2151,7 @@
   },
   {
     "Government name": "Warwick, Rhode Island",
-    "": "RI",
+    "State": "RI",
     "Building online?": "Online",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -2161,7 +2161,7 @@
   },
   {
     "Government name": "Medford, Oregon",
-    "": "OR",
+    "State": "OR",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -2171,7 +2171,7 @@
   },
   {
     "Government name": "Suffolk, Virginia",
-    "": "VA",
+    "State": "VA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -2181,7 +2181,7 @@
   },
   {
     "Government name": "Sunrise, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -2191,7 +2191,7 @@
   },
   {
     "Government name": "Abilene, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "Online",
     "Dog online?": "In person",
     "Business online?": "None found",
@@ -2201,7 +2201,7 @@
   },
   {
     "Government name": "Schertz, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "PDF",
     "Dog online?": "In person",
     "Business online?": "In person",
@@ -2211,7 +2211,7 @@
   },
   {
     "Government name": "Sherman, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -2221,7 +2221,7 @@
   },
   {
     "Government name": "Saginaw, Michigan",
-    "": "MI",
+    "State": "MI",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -2231,7 +2231,7 @@
   },
   {
     "Government name": "Bedford, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "None found",
@@ -2241,7 +2241,7 @@
   },
   {
     "Government name": "Hanford, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -2251,7 +2251,7 @@
   },
   {
     "Government name": "Gardena, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -2261,7 +2261,7 @@
   },
   {
     "Government name": "Decatur, Illinois",
-    "": "IL",
+    "State": "IL",
     "Building online?": "PDF",
     "Dog online?": "Vet",
     "Business online?": "None found",
@@ -2271,7 +2271,7 @@
   },
   {
     "Government name": "Manteca, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "In person",
     "Business online?": "PDF",
@@ -2281,7 +2281,7 @@
   },
   {
     "Government name": "Livonia, Michigan",
-    "": "MI",
+    "State": "MI",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "In person",
@@ -2291,7 +2291,7 @@
   },
   {
     "Government name": "Kenosha, Wisconsin",
-    "": "WI",
+    "State": "WI",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -2301,7 +2301,7 @@
   },
   {
     "Government name": "Everett, Washington",
-    "": "WA",
+    "State": "WA",
     "Building online?": "Online (some)",
     "Dog online?": "Online (some)",
     "Business online?": "Online (some)",
@@ -2311,7 +2311,7 @@
   },
   {
     "Government name": "Chelsea, Massachusetts",
-    "": "MA",
+    "State": "MA",
     "Building online?": "Online",
     "Dog online?": "PDF",
     "Business online?": "Online (some)",
@@ -2321,7 +2321,7 @@
   },
   {
     "Government name": "Rocklin, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "Online (some)",
     "Dog online?": "Online (some)",
     "Business online?": "Online",
@@ -2331,7 +2331,7 @@
   },
   {
     "Government name": "Redmond, Washington",
-    "": "WA",
+    "State": "WA",
     "Building online?": "Online (some)",
     "Dog online?": "Online",
     "Business online?": "Online",
@@ -2341,7 +2341,7 @@
   },
   {
     "Government name": "Bothell, Washington",
-    "": "WA",
+    "State": "WA",
     "Building online?": "Online (some)",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -2351,7 +2351,7 @@
   },
   {
     "Government name": "Deltona, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "Online (some)",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -2361,7 +2361,7 @@
   },
   {
     "Government name": "Roswell, Georgia",
-    "": "GA",
+    "State": "GA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -2371,7 +2371,7 @@
   },
   {
     "Government name": "Roanoke, Virginia",
-    "": "VA",
+    "State": "VA",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -2381,7 +2381,7 @@
   },
   {
     "Government name": "Visalia, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -2391,7 +2391,7 @@
   },
   {
     "Government name": "Mankato, Minnesota",
-    "": "MN",
+    "State": "MN",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -2401,7 +2401,7 @@
   },
   {
     "Government name": "Edmonds, Washington",
-    "": "WA",
+    "State": "WA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "Online",
@@ -2411,7 +2411,7 @@
   },
   {
     "Government name": "Madison, Alabama",
-    "": "AL",
+    "State": "AL",
     "Building online?": "Online (some)",
     "Dog online?": "In person/ mail",
     "Business online?": "PDF",
@@ -2421,7 +2421,7 @@
   },
   {
     "Government name": "Rowlett, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "PDF",
     "Dog online?": "Vet",
     "Business online?": "PDF",
@@ -2431,7 +2431,7 @@
   },
   {
     "Government name": "Alameda, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "Online",
     "Dog online?": "PDF",
     "Business online?": "Online",
@@ -2441,7 +2441,7 @@
   },
   {
     "Government name": "Burbank, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -2451,7 +2451,7 @@
   },
   {
     "Government name": "Greeley, Colorado",
-    "": "CO",
+    "State": "CO",
     "Building online?": "Online",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -2461,7 +2461,7 @@
   },
   {
     "Government name": "Lansing, Michigan",
-    "": "MI",
+    "State": "MI",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "Online",
@@ -2471,7 +2471,7 @@
   },
   {
     "Government name": "Hampton, Virginia",
-    "": "VA",
+    "State": "VA",
     "Building online?": "Online (some)",
     "Dog online?": "In person/ mail",
     "Business online?": "PDF",
@@ -2481,7 +2481,7 @@
   },
   {
     "Government name": "Hayward, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "Online (some)",
     "Dog online?": "In person",
     "Business online?": "PDF",
@@ -2491,7 +2491,7 @@
   },
   {
     "Government name": "Peabody, Massachusetts",
-    "": "MA",
+    "State": "MA",
     "Building online?": "Online (some)",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -2501,7 +2501,7 @@
   },
   {
     "Government name": "Hoboken, New Jersey",
-    "": "NJ",
+    "State": "NJ",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "In person",
@@ -2511,7 +2511,7 @@
   },
   {
     "Government name": "Yucaipa, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -2521,7 +2521,7 @@
   },
   {
     "Government name": "Pontiac, Michigan",
-    "": "MI",
+    "State": "MI",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -2531,7 +2531,7 @@
   },
   {
     "Government name": "Turlock, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -2541,7 +2541,7 @@
   },
   {
     "Government name": "Reading, Pennsylvania",
-    "": "PA",
+    "State": "PA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -2551,7 +2551,7 @@
   },
   {
     "Government name": "Redding, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "Online (some)",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -2561,7 +2561,7 @@
   },
   {
     "Government name": "Menifee, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "Online (some)",
@@ -2571,7 +2571,7 @@
   },
   {
     "Government name": "Antioch, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -2581,7 +2581,7 @@
   },
   {
     "Government name": "Vallejo, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -2591,7 +2591,7 @@
   },
   {
     "Government name": "Salinas, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -2601,7 +2601,7 @@
   },
   {
     "Government name": "Roswell, New Mexico",
-    "": "NM",
+    "State": "NM",
     "Building online?": "PDF",
     "Dog online?": "In person",
     "Business online?": "PDF",
@@ -2611,7 +2611,7 @@
   },
   {
     "Government name": "Arcadia, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -2621,7 +2621,7 @@
   },
   {
     "Government name": "La Mesa, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -2631,7 +2631,7 @@
   },
   {
     "Government name": "Norwalk, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "In person/ mail",
     "Business online?": "PDF",
@@ -2641,7 +2641,7 @@
   },
   {
     "Government name": "Columbus, Indiana",
-    "": "IN",
+    "State": "IN",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -2651,7 +2651,7 @@
   },
   {
     "Government name": "Anderson, Indiana",
-    "": "IN",
+    "State": "IN",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -2661,7 +2661,7 @@
   },
   {
     "Government name": "Plymouth, Minnesota",
-    "": "MN",
+    "State": "MN",
     "Building online?": "Online (some)",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -2671,7 +2671,7 @@
   },
   {
     "Government name": "Cranston, Rhode Island",
-    "": "RI",
+    "State": "RI",
     "Building online?": "Online",
     "Dog online?": "None found",
     "Business online?": "In person",
@@ -2681,7 +2681,7 @@
   },
   {
     "Government name": "Beaumont, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -2691,7 +2691,7 @@
   },
   {
     "Government name": "Paterson, New Jersey",
-    "": "NJ",
+    "State": "NJ",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -2701,7 +2701,7 @@
   },
   {
     "Government name": "Chicopee, Massachusetts",
-    "": "MA",
+    "State": "MA",
     "Building online?": "Online",
     "Dog online?": "PDF",
     "Business online?": "None found",
@@ -2711,7 +2711,7 @@
   },
   {
     "Government name": "Rockford, Illinois",
-    "": "IL",
+    "State": "IL",
     "Building online?": "Online (some)",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -2721,7 +2721,7 @@
   },
   {
     "Government name": "Vineland, New Jersey",
-    "": "NJ",
+    "State": "NJ",
     "Building online?": "None found",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -2731,7 +2731,7 @@
   },
   {
     "Government name": "Pasadena, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "PDF",
     "Dog online?": "In person",
     "Business online?": "None found",
@@ -2741,7 +2741,7 @@
   },
   {
     "Government name": "Appleton, Wisconsin",
-    "": "WI",
+    "State": "WI",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "None found",
@@ -2751,7 +2751,7 @@
   },
   {
     "Government name": "Scranton, Pennsylvania",
-    "": "PA",
+    "State": "PA",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "In person",
@@ -2761,7 +2761,7 @@
   },
   {
     "Government name": "Burleson, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -2771,7 +2771,7 @@
   },
   {
     "Government name": "Valdosta, Georgia",
-    "": "GA",
+    "State": "GA",
     "Building online?": "Online",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -2781,7 +2781,7 @@
   },
   {
     "Government name": "Bismarck, North Dakota",
-    "": "ND",
+    "State": "ND",
     "Building online?": "Online",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -2791,7 +2791,7 @@
   },
   {
     "Government name": "Gastonia, North Carolina",
-    "": "NC",
+    "State": "NC",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -2801,7 +2801,7 @@
   },
   {
     "Government name": "Franklin, Tennessee",
-    "": "TN",
+    "State": "TN",
     "Building online?": "Online (some)",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -2811,7 +2811,7 @@
   },
   {
     "Government name": "Santa Fe, New Mexico",
-    "": "NM",
+    "State": "NM",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "Online",
@@ -2821,7 +2821,7 @@
   },
   {
     "Government name": "Sarasota, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -2831,7 +2831,7 @@
   },
   {
     "Government name": "Longview, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -2841,7 +2841,7 @@
   },
   {
     "Government name": "Brockton, Massachusetts",
-    "": "MA",
+    "State": "MA",
     "Building online?": "Online (some)",
     "Dog online?": "PDF",
     "Business online?": "None found",
@@ -2851,7 +2851,7 @@
   },
   {
     "Government name": "Calexico, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -2861,7 +2861,7 @@
   },
   {
     "Government name": "Lawrence, Indiana",
-    "": "IN",
+    "State": "IN",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -2871,7 +2871,7 @@
   },
   {
     "Government name": "Bellevue, Nebraska",
-    "": "NE",
+    "State": "NE",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -2881,7 +2881,7 @@
   },
   {
     "Government name": "Hamilton, Ohio",
-    "": "OH",
+    "State": "OH",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -2891,7 +2891,7 @@
   },
   {
     "Government name": "Cheyenne, Wyoming",
-    "": "WY",
+    "State": "WY",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -2901,7 +2901,7 @@
   },
   {
     "Government name": "Gulfport, Mississippi",
-    "": "MS",
+    "State": "MS",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -2911,7 +2911,7 @@
   },
   {
     "Government name": "Edinburg, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -2921,7 +2921,7 @@
   },
   {
     "Government name": "Florence, Alabama",
-    "": "AL",
+    "State": "AL",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -2931,7 +2931,7 @@
   },
   {
     "Government name": "Dearborn, Michigan",
-    "": "MI",
+    "State": "MI",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -2941,7 +2941,7 @@
   },
   {
     "Government name": "Maricopa, Arizona",
-    "": "AZ",
+    "State": "AZ",
     "Building online?": "Online (some)",
     "Dog online?": "None found",
     "Business online?": "Online",
@@ -2951,7 +2951,7 @@
   },
   {
     "Government name": "Lakewood, Ohio",
-    "": "OH",
+    "State": "OH",
     "Building online?": "Online (some)",
     "Dog online?": "Online (some)",
     "Business online?": "None found",
@@ -2961,7 +2961,7 @@
   },
   {
     "Government name": "Glendora, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "Online (some)",
     "Dog online?": "Online",
     "Business online?": "Online (some)",
@@ -2971,7 +2971,7 @@
   },
   {
     "Government name": "Avondale, Arizona",
-    "": "AZ",
+    "State": "AZ",
     "Building online?": "Online",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -2981,7 +2981,7 @@
   },
   {
     "Government name": "Pearland, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "Online",
     "Dog online?": "Online",
     "Business online?": "None found",
@@ -2991,7 +2991,7 @@
   },
   {
     "Government name": "Danville, Virginia",
-    "": "VA",
+    "State": "VA",
     "Building online?": "Online",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -3001,7 +3001,7 @@
   },
   {
     "Government name": "Prescott, Arizona",
-    "": "AZ",
+    "State": "AZ",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "None found",
@@ -3011,7 +3011,7 @@
   },
   {
     "Government name": "Lakewood, Washington",
-    "": "WA",
+    "State": "WA",
     "Building online?": "Online (some)",
     "Dog online?": "Online (some)",
     "Business online?": "Online (some)",
@@ -3021,7 +3021,7 @@
   },
   {
     "Government name": "Eastvale, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "Online",
@@ -3031,7 +3031,7 @@
   },
   {
     "Government name": "Lakeland, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "Online (some)",
     "Dog online?": "None found",
     "Business online?": "Online (some(",
@@ -3041,7 +3041,7 @@
   },
   {
     "Government name": "Temecula, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -3051,7 +3051,7 @@
   },
   {
     "Government name": "Stamford, Connecticut",
-    "": "CT",
+    "State": "CT",
     "Building online?": "Online",
     "Dog online?": "PDF",
     "Business online?": "None found",
@@ -3061,7 +3061,7 @@
   },
   {
     "Government name": "Thornton, Colorado",
-    "": "CO",
+    "State": "CO",
     "Building online?": "Online",
     "Dog online?": "None found",
     "Business online?": "Online",
@@ -3071,7 +3071,7 @@
   },
   {
     "Government name": "Mesquite, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "Online",
     "Dog online?": "Vet",
     "Business online?": "None found",
@@ -3081,7 +3081,7 @@
   },
   {
     "Government name": "Bellevue, Washington",
-    "": "WA",
+    "State": "WA",
     "Building online?": "Online",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -3091,7 +3091,7 @@
   },
   {
     "Government name": "Gallatin, Tennessee",
-    "": "TN",
+    "State": "TN",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -3101,7 +3101,7 @@
   },
   {
     "Government name": "Campbell, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "Online",
     "Dog online?": "None found",
     "Business online?": "In person",
@@ -3111,7 +3111,7 @@
   },
   {
     "Government name": "Herriman, Utah",
-    "": "UT",
+    "State": "UT",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -3121,7 +3121,7 @@
   },
   {
     "Government name": "Cerritos, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -3131,7 +3131,7 @@
   },
   {
     "Government name": "Richland, Washington",
-    "": "WA",
+    "State": "WA",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "Online (some)",
@@ -3141,7 +3141,7 @@
   },
   {
     "Government name": "Marietta, Georgia",
-    "": "GA",
+    "State": "GA",
     "Building online?": "Online",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -3151,7 +3151,7 @@
   },
   {
     "Government name": "Victoria, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "Online (some)",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -3161,7 +3161,7 @@
   },
   {
     "Government name": "Waukesha, Wisconsin",
-    "": "WI",
+    "State": "WI",
     "Building online?": "Online",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -3171,7 +3171,7 @@
   },
   {
     "Government name": "Lakewood, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -3181,7 +3181,7 @@
   },
   {
     "Government name": "Lawrence, Massachusetts",
-    "": "MA",
+    "State": "MA",
     "Building online?": "Online",
     "Dog online?": "In person",
     "Business online?": "PDF",
@@ -3191,7 +3191,7 @@
   },
   {
     "Government name": "Westland, Michigan",
-    "": "MI",
+    "State": "MI",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -3201,7 +3201,7 @@
   },
   {
     "Government name": "Goodyear, Arizona",
-    "": "AZ",
+    "State": "AZ",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -3211,7 +3211,7 @@
   },
   {
     "Government name": "Waukegan, Illinois",
-    "": "IL",
+    "State": "IL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -3221,7 +3221,7 @@
   },
   {
     "Government name": "Lawrence, Kansas",
-    "": "KS",
+    "State": "KS",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -3231,7 +3231,7 @@
   },
   {
     "Government name": "Syracuse, New York",
-    "": "NY",
+    "State": "NY",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -3241,7 +3241,7 @@
   },
   {
     "Government name": "Palmdale, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "Online",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -3251,7 +3251,7 @@
   },
   {
     "Government name": "Brighton, Colorado",
-    "": "CO",
+    "State": "CO",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -3261,7 +3261,7 @@
   },
   {
     "Government name": "Moorhead, Minnesota",
-    "": "MN",
+    "State": "MN",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -3271,7 +3271,7 @@
   },
   {
     "Government name": "Bartlett, Tennessee",
-    "": "TN",
+    "State": "TN",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "In person",
@@ -3281,7 +3281,7 @@
   },
   {
     "Government name": "Waterloo, Iowa",
-    "": "IA",
+    "State": "IA",
     "Building online?": "PDF",
     "Dog online?": "In person",
     "Business online?": "in person",
@@ -3291,7 +3291,7 @@
   },
   {
     "Government name": "Richmond, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -3301,7 +3301,7 @@
   },
   {
     "Government name": "Palm Bay, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -3311,7 +3311,7 @@
   },
   {
     "Government name": "El Monte, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -3321,7 +3321,7 @@
   },
   {
     "Government name": "Columbia, South Carolina",
-    "": "SC",
+    "State": "SC",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -3331,7 +3331,7 @@
   },
   {
     "Government name": "Highland, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -3341,7 +3341,7 @@
   },
   {
     "Government name": "Woodbury, Minnesota",
-    "": "MN",
+    "State": "MN",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -3351,7 +3351,7 @@
   },
   {
     "Government name": "Shakopee, Minnesota",
-    "": "MN",
+    "State": "MN",
     "Building online?": "Online",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -3361,7 +3361,7 @@
   },
   {
     "Government name": "Dunwoody, Georgia",
-    "": "GA",
+    "State": "GA",
     "Building online?": "Online",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -3371,7 +3371,7 @@
   },
   {
     "Government name": "Loveland, Colorado",
-    "": "CO",
+    "State": "CO",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -3381,7 +3381,7 @@
   },
   {
     "Government name": "Milpitas, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "Online (some)",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -3391,7 +3391,7 @@
   },
   {
     "Government name": "Longmont, Colorado",
-    "": "CO",
+    "State": "CO",
     "Building online?": "Online",
     "Dog online?": "Online (some)",
     "Business online?": "Online?",
@@ -3401,7 +3401,7 @@
   },
   {
     "Government name": "Murrieta, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "Online",
@@ -3411,7 +3411,7 @@
   },
   {
     "Government name": "Columbia, Missouri",
-    "": "MO",
+    "State": "MO",
     "Building online?": "Online (some)",
     "Dog online?": "Vet",
     "Business online?": "PDF",
@@ -3421,7 +3421,7 @@
   },
   {
     "Government name": "Lakewood, Colorado",
-    "": "CO",
+    "State": "CO",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "Online",
@@ -3431,7 +3431,7 @@
   },
   {
     "Government name": "Manassas, Virginia",
-    "": "VA",
+    "State": "VA",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -3441,7 +3441,7 @@
   },
   {
     "Government name": "Puyallup, Washington",
-    "": "WA",
+    "State": "WA",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "Online (some)",
@@ -3451,7 +3451,7 @@
   },
   {
     "Government name": "Riverton, Utah",
-    "": "UT",
+    "State": "UT",
     "Building online?": "PDF",
     "Dog online?": "Vet",
     "Business online?": "Online",
@@ -3461,7 +3461,7 @@
   },
   {
     "Government name": "Rockwall, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "Online (some)",
     "Dog online?": "PDF",
     "Business online?": "In person",
@@ -3471,7 +3471,7 @@
   },
   {
     "Government name": "Beaumont, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -3481,7 +3481,7 @@
   },
   {
     "Government name": "Petaluma, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "Online (some)",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -3491,7 +3491,7 @@
   },
   {
     "Government name": "Portland, Maine",
-    "": "ME",
+    "State": "ME",
     "Building online?": "Online",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -3501,7 +3501,7 @@
   },
   {
     "Government name": "Evanston, Illinois",
-    "": "IL",
+    "State": "IL",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -3511,7 +3511,7 @@
   },
   {
     "Government name": "Missoula, Montana",
-    "": "MT",
+    "State": "MT",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -3521,7 +3521,7 @@
   },
   {
     "Government name": "O'Fallon, Missouri",
-    "": "MO",
+    "State": "MO",
     "Building online?": "Online",
     "Dog online?": "Vet",
     "Business online?": "Online",
@@ -3531,7 +3531,7 @@
   },
   {
     "Government name": "Kirkland, Washington",
-    "": "WA",
+    "State": "WA",
     "Building online?": "Online",
     "Dog online?": "Online (some)",
     "Business online?": "Online (some)",
@@ -3541,7 +3541,7 @@
   },
   {
     "Government name": "Hesperia, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -3551,7 +3551,7 @@
   },
   {
     "Government name": "Carlsbad, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "Online (some)",
@@ -3561,7 +3561,7 @@
   },
   {
     "Government name": "Savannah, Georgia",
-    "": "GA",
+    "State": "GA",
     "Building online?": "Online (some)",
     "Dog online?": "in person/ mail",
     "Business online?": "PDF",
@@ -3571,7 +3571,7 @@
   },
   {
     "Government name": "Kentwood, Michigan",
-    "": "MI",
+    "State": "MI",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -3581,7 +3581,7 @@
   },
   {
     "Government name": "Rosemead, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "In person",
     "Business online?": "Online (some)",
@@ -3591,7 +3591,7 @@
   },
   {
     "Government name": "Caldwell, Idaho",
-    "": "ID",
+    "State": "ID",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -3601,7 +3601,7 @@
   },
   {
     "Government name": "La Habra, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -3611,7 +3611,7 @@
   },
   {
     "Government name": "Redlands, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "In person",
     "Business online?": "Online",
@@ -3621,7 +3621,7 @@
   },
   {
     "Government name": "Whittier, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "Online",
@@ -3631,7 +3631,7 @@
   },
   {
     "Government name": "El Cajon, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "In person/ mail",
     "Business online?": "Online",
@@ -3641,7 +3641,7 @@
   },
   {
     "Government name": "Meridian, Idaho",
-    "": "ID",
+    "State": "ID",
     "Building online?": "Online",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -3651,7 +3651,7 @@
   },
   {
     "Government name": "Billings, Montana",
-    "": "MT",
+    "State": "MT",
     "Building online?": "Online",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -3661,7 +3661,7 @@
   },
   {
     "Government name": "Berkeley, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "Online",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -3671,7 +3671,7 @@
   },
   {
     "Government name": "Hartford, Connecticut",
-    "": "CT",
+    "State": "CT",
     "Building online?": "Online (some)",
     "Dog online?": "In person/ mail",
     "Business online?": "PDF",
@@ -3681,7 +3681,7 @@
   },
   {
     "Government name": "Surprise, Arizona",
-    "": "AZ",
+    "State": "AZ",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -3691,7 +3691,7 @@
   },
   {
     "Government name": "Pasadena, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "Online",
@@ -3701,7 +3701,7 @@
   },
   {
     "Government name": "Torrance, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -3711,7 +3711,7 @@
   },
   {
     "Government name": "Elmhurst, Illinois",
-    "": "IL",
+    "State": "IL",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -3721,7 +3721,7 @@
   },
   {
     "Government name": "Woodland, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -3731,7 +3731,7 @@
   },
   {
     "Government name": "Alhambra, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "In person",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -3741,7 +3741,7 @@
   },
   {
     "Government name": "Galveston, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "Online (some)",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -3751,7 +3751,7 @@
   },
   {
     "Government name": "Kissimmee, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "Online",
     "Dog online?": "None found",
     "Business online?": "In person",
@@ -3761,7 +3761,7 @@
   },
   {
     "Government name": "Lancaster, Ohio",
-    "": "OH",
+    "State": "OH",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -3771,7 +3771,7 @@
   },
   {
     "Government name": "Westfield, Indiana",
-    "": "IN",
+    "State": "IN",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -3781,7 +3781,7 @@
   },
   {
     "Government name": "Westfield, Massachusetts",
-    "": "MA",
+    "State": "MA",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -3791,7 +3791,7 @@
   },
   {
     "Government name": "Mansfield, Ohio",
-    "": "OH",
+    "State": "OH",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -3801,7 +3801,7 @@
   },
   {
     "Government name": "Mishawaka, Indiana",
-    "": "IN",
+    "State": "IN",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -3811,7 +3811,7 @@
   },
   {
     "Government name": "Southaven, Mississippi",
-    "": "MS",
+    "State": "MS",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -3821,7 +3821,7 @@
   },
   {
     "Government name": "Lancaster, Pennsylvania",
-    "": "PA",
+    "State": "PA",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -3831,7 +3831,7 @@
   },
   {
     "Government name": "Harlingen, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -3841,7 +3841,7 @@
   },
   {
     "Government name": "Homestead, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -3851,7 +3851,7 @@
   },
   {
     "Government name": "Waterbury, Connecticut",
-    "": "CT",
+    "State": "CT",
     "Building online?": "PDF",
     "Dog online?": "in person/ mail",
     "Business online?": "None found",
@@ -3861,7 +3861,7 @@
   },
   {
     "Government name": "Bountiful, Utah",
-    "": "UT",
+    "State": "UT",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -3871,7 +3871,7 @@
   },
   {
     "Government name": "Grapevine, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -3881,7 +3881,7 @@
   },
   {
     "Government name": "Yuba City, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "Online",
     "Dog online?": "None found",
     "Business online?": "Online",
@@ -3891,7 +3891,7 @@
   },
   {
     "Government name": "Owensboro, Kentucky",
-    "": "KY",
+    "State": "KY",
     "Building online?": "None found",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -3901,7 +3901,7 @@
   },
   {
     "Government name": "Iowa City, Iowa",
-    "": "IA",
+    "State": "IA",
     "Building online?": "Online",
     "Dog online?": "PDF",
     "Business online?": "None found",
@@ -3911,7 +3911,7 @@
   },
   {
     "Government name": "Champaign, Illinois",
-    "": "IL",
+    "State": "IL",
     "Building online?": "Online (some)",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -3921,7 +3921,7 @@
   },
   {
     "Government name": "Elizabeth, New Jersey",
-    "": "NJ",
+    "State": "NJ",
     "Building online?": "Online (some)",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -3931,7 +3931,7 @@
   },
   {
     "Government name": "Fitchburg, Massachusetts",
-    "": "MA",
+    "State": "MA",
     "Building online?": "Online (some)",
     "Dog online?": "In person/ mail",
     "Business online?": "None found",
@@ -3941,7 +3941,7 @@
   },
   {
     "Government name": "Kingsport, Tennessee",
-    "": "TN",
+    "State": "TN",
     "Building online?": "Online (some)",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -3951,7 +3951,7 @@
   },
   {
     "Government name": "Paramount, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "None found",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -3961,7 +3961,7 @@
   },
   {
     "Government name": "Corvallis, Oregon",
-    "": "OR",
+    "State": "OR",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -3971,7 +3971,7 @@
   },
   {
     "Government name": "Pawtucket, Rhode Island",
-    "": "RI",
+    "State": "RI",
     "Building online?": "Online",
     "Dog online?": "In person",
     "Business online?": "None found",
@@ -3981,7 +3981,7 @@
   },
   {
     "Government name": "Frederick, Maryland",
-    "": "MD",
+    "State": "MD",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -3991,7 +3991,7 @@
   },
   {
     "Government name": "Jonesboro, Arkansas",
-    "": "AR",
+    "State": "AR",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "Online",
@@ -4001,7 +4001,7 @@
   },
   {
     "Government name": "Rochester, Minnesota",
-    "": "MN",
+    "State": "MN",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -4011,7 +4011,7 @@
   },
   {
     "Government name": "Sheboygan, Wisconsin",
-    "": "WI",
+    "State": "WI",
     "Building online?": "PDF",
     "Dog online?": "In person",
     "Business online?": "In person",
@@ -4021,7 +4021,7 @@
   },
   {
     "Government name": "Brentwood, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -4031,7 +4031,7 @@
   },
   {
     "Government name": "Inglewood, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "None found",
     "Dog online?": "PDF",
     "Business online?": "in person",
@@ -4041,7 +4041,7 @@
   },
   {
     "Government name": "Allentown, Pennsylvania",
-    "": "PA",
+    "State": "PA",
     "Building online?": "PDF",
     "Dog online?": "In person",
     "Business online?": "None found",
@@ -4051,7 +4051,7 @@
   },
   {
     "Government name": "Lafayette, Louisiana",
-    "": "LA",
+    "State": "LA",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -4061,7 +4061,7 @@
   },
   {
     "Government name": "Bethlehem, Pennsylvania",
-    "": "PA",
+    "State": "PA",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -4071,7 +4071,7 @@
   },
   {
     "Government name": "Littleton, Colorado",
-    "": "CO",
+    "State": "CO",
     "Building online?": "Online (some)",
     "Dog online?": "None found",
     "Business online?": "Online",
@@ -4081,7 +4081,7 @@
   },
   {
     "Government name": "Pocatello, Idaho",
-    "": "ID",
+    "State": "ID",
     "Building online?": "Online",
     "Dog online?": "in person",
     "Business online?": "None found",
@@ -4091,7 +4091,7 @@
   },
   {
     "Government name": "Greenwood, Indiana",
-    "": "IN",
+    "State": "IN",
     "Building online?": "Online (some)",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -4101,7 +4101,7 @@
   },
   {
     "Government name": "Millcreek, Utah",
-    "": "UT",
+    "State": "UT",
     "Building online?": "Online",
     "Dog online?": "Online (some)",
     "Business online?": "Online",
@@ -4111,7 +4111,7 @@
   },
   {
     "Government name": "Haverhill, Massachusetts",
-    "": "MA",
+    "State": "MA",
     "Building online?": "Online",
     "Dog online?": "Online (some)",
     "Business online?": "Online",
@@ -4121,7 +4121,7 @@
   },
   {
     "Government name": "Sammamish, Washington",
-    "": "WA",
+    "State": "WA",
     "Building online?": "Online",
     "Dog online?": "Online",
     "Business online?": "Online (some)",
@@ -4131,7 +4131,7 @@
   },
   {
     "Government name": "Beaverton, Oregon",
-    "": "OR",
+    "State": "OR",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "Online",
@@ -4141,7 +4141,7 @@
   },
   {
     "Government name": "La Quinta, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "Online",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -4151,7 +4151,7 @@
   },
   {
     "Government name": "Brentwood, Tennessee",
-    "": "TN",
+    "State": "TN",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -4161,7 +4161,7 @@
   },
   {
     "Government name": "Cleveland, Tennessee",
-    "": "TN",
+    "State": "TN",
     "Building online?": "Online",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -4171,7 +4171,7 @@
   },
   {
     "Government name": "Pensacola, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "Online",
@@ -4181,7 +4181,7 @@
   },
   {
     "Government name": "Shoreline, Washington",
-    "": "WA",
+    "State": "WA",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "Online (some)",
@@ -4191,7 +4191,7 @@
   },
   {
     "Government name": "Lakeville, Minnesota",
-    "": "MN",
+    "State": "MN",
     "Building online?": "Online (some)",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -4201,7 +4201,7 @@
   },
   {
     "Government name": "Mansfield, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "Online (some)",
     "Dog online?": "Online",
     "Business online?": "None found",
@@ -4211,7 +4211,7 @@
   },
   {
     "Government name": "Rock Hill, South Carolina",
-    "": "SC",
+    "State": "SC",
     "Building online?": "Online (some)",
     "Dog online?": "None found",
     "Business online?": "Online",
@@ -4221,7 +4221,7 @@
   },
   {
     "Government name": "Kalamazoo, Michigan",
-    "": "MI",
+    "State": "MI",
     "Building online?": "Online (some)",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -4231,7 +4231,7 @@
   },
   {
     "Government name": "Kennewick, Washington",
-    "": "WA",
+    "State": "WA",
     "Building online?": "Online (some)",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -4241,7 +4241,7 @@
   },
   {
     "Government name": "Davenport, Iowa",
-    "": "IA",
+    "State": "IA",
     "Building online?": "PDF",
     "Dog online?": "Vet",
     "Business online?": "None found",
@@ -4251,7 +4251,7 @@
   },
   {
     "Government name": "Escondido, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "Online",
@@ -4261,7 +4261,7 @@
   },
   {
     "Government name": "Hollywood, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -4271,7 +4271,7 @@
   },
   {
     "Government name": "Covington, Kentucky",
-    "": "KY",
+    "State": "KY",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -4281,7 +4281,7 @@
   },
   {
     "Government name": "Maplewood, Minnesota",
-    "": "MN",
+    "State": "MN",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -4291,7 +4291,7 @@
   },
   {
     "Government name": "Fairfield, Ohio",
-    "": "OH",
+    "State": "OH",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -4301,7 +4301,7 @@
   },
   {
     "Government name": "Attleboro, Massachusetts",
-    "": "MA",
+    "State": "MA",
     "Building online?": "Online",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -4311,7 +4311,7 @@
   },
   {
     "Government name": "St. Cloud, Florida",
-    "": "GL",
+    "State": "GL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "Online",
@@ -4321,7 +4321,7 @@
   },
   {
     "Government name": "Daly City, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -4331,7 +4331,7 @@
   },
   {
     "Government name": "Hillsboro, Oregon",
-    "": "OR",
+    "State": "OR",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -4341,7 +4341,7 @@
   },
   {
     "Government name": "Fairfield, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "Online (some)",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -4351,7 +4351,7 @@
   },
   {
     "Government name": "Ann Arbor, Michigan",
-    "": "MI",
+    "State": "MI",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "None found",
@@ -4361,7 +4361,7 @@
   },
   {
     "Government name": "San Bruno, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -4371,7 +4371,7 @@
   },
   {
     "Government name": "Bradenton, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "Online",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -4381,7 +4381,7 @@
   },
   {
     "Government name": "Lafayette, Indiana",
-    "": "IN",
+    "State": "IN",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -4391,7 +4391,7 @@
   },
   {
     "Government name": "Pittsburg, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -4401,7 +4401,7 @@
   },
   {
     "Government name": "Placentia, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -4411,7 +4411,7 @@
   },
   {
     "Government name": "Cambridge, Massachusetts",
-    "": "MA",
+    "State": "MA",
     "Building online?": "Online",
     "Dog online?": "Online (some)",
     "Business online?": "Online",
@@ -4421,7 +4421,7 @@
   },
   {
     "Government name": "Royal Oak, Michigan",
-    "": "MI",
+    "State": "MI",
     "Building online?": "Online",
     "Dog online?": "Online",
     "Business online?": "Online",
@@ -4431,7 +4431,7 @@
   },
   {
     "Government name": "Cupertino, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "Online",
     "Dog online?": "Online (some)",
     "Business online?": "Online",
@@ -4441,7 +4441,7 @@
   },
   {
     "Government name": "Encinitas, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "Online (some)",
     "Dog online?": "Online (some)",
     "Business online?": "Online",
@@ -4451,7 +4451,7 @@
   },
   {
     "Government name": "Asheville, North Carolina",
-    "": "NC",
+    "State": "NC",
     "Building online?": "Online",
     "Dog online?": "Online (some)",
     "Business online?": "Online",
@@ -4461,7 +4461,7 @@
   },
   {
     "Government name": "Roseville, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "Online",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -4471,7 +4471,7 @@
   },
   {
     "Government name": "Fullerton, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "Online",
     "Dog online?": "Online",
     "Business online?": "Online (some)",
@@ -4481,7 +4481,7 @@
   },
   {
     "Government name": "Bremerton, Washington",
-    "": "WA",
+    "State": "WA",
     "Building online?": "Online (some)",
     "Dog online?": "Online",
     "Business online?": "Online (some)",
@@ -4491,7 +4491,7 @@
   },
   {
     "Government name": "Urbandale, Iowa",
-    "": "IA",
+    "State": "IA",
     "Building online?": "Online",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -4501,7 +4501,7 @@
   },
   {
     "Government name": "Camarillo, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "Online",
     "Dog online?": "Online",
     "Business online?": "Online",
@@ -4511,7 +4511,7 @@
   },
   {
     "Government name": "Vacaville, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "Online",
     "Dog online?": "Online (some)",
     "Business online?": "Online",
@@ -4521,7 +4521,7 @@
   },
   {
     "Government name": "Wauwatosa, Wisconsin",
-    "": "WI",
+    "State": "WI",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -4531,7 +4531,7 @@
   },
   {
     "Government name": "La Crosse, Wisconsin",
-    "": "WI",
+    "State": "WI",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -4541,7 +4541,7 @@
   },
   {
     "Government name": "Manhattan, Kansas",
-    "": "KS",
+    "State": "KS",
     "Building online?": "Online",
     "Dog online?": "in person",
     "Business online?": "In person",
@@ -4551,7 +4551,7 @@
   },
   {
     "Government name": "Palo Alto, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "Online (some)",
     "Dog online?": "PDF",
     "Business online?": "Online",
@@ -4561,7 +4561,7 @@
   },
   {
     "Government name": "Flagstaff, Arizona",
-    "": "AZ",
+    "State": "AZ",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -4571,7 +4571,7 @@
   },
   {
     "Government name": "San Ramon, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -4581,7 +4581,7 @@
   },
   {
     "Government name": "Lynchburg, Virginia",
-    "": "VA",
+    "State": "VA",
     "Building online?": "Online",
     "Dog online?": "In person/ mail",
     "Business online?": "PDF",
@@ -4591,7 +4591,7 @@
   },
   {
     "Government name": "New Haven, Connecticut",
-    "": "CT",
+    "State": "CT",
     "Building online?": "Online",
     "Dog online?": "In person",
     "Business online?": "PDF",
@@ -4601,7 +4601,7 @@
   },
   {
     "Government name": "Sunnyvale, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "Online",
@@ -4611,7 +4611,7 @@
   },
   {
     "Government name": "Lancaster, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "Online (some)",
     "Dog online?": "PDF",
     "Business online?": "Online",
@@ -4621,7 +4621,7 @@
   },
   {
     "Government name": "Los Banos, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "In person/ mail",
     "Business online?": "PDF",
@@ -4631,7 +4631,7 @@
   },
   {
     "Government name": "Coachella, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "In person",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -4641,7 +4641,7 @@
   },
   {
     "Government name": "Roseville, Michigan",
-    "": "MI",
+    "State": "MI",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -4651,7 +4651,7 @@
   },
   {
     "Government name": "La Mirada, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "Online (some)",
@@ -4661,7 +4661,7 @@
   },
   {
     "Government name": "Kettering, Ohio",
-    "": "OH",
+    "State": "OH",
     "Building online?": "Online",
     "Dog online?": "In person",
     "Business online?": "PDF",
@@ -4671,7 +4671,7 @@
   },
   {
     "Government name": "St. Cloud, Minnesota",
-    "": "MN",
+    "State": "MN",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "In person",
@@ -4681,7 +4681,7 @@
   },
   {
     "Government name": "Rockville, Maryland",
-    "": "MD",
+    "State": "MD",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -4691,7 +4691,7 @@
   },
   {
     "Government name": "Melbourne, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -4701,7 +4701,7 @@
   },
   {
     "Government name": "Hawthorne, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -4711,7 +4711,7 @@
   },
   {
     "Government name": "Green Bay, Wisconsin",
-    "": "WI",
+    "State": "WI",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -4721,7 +4721,7 @@
   },
   {
     "Government name": "Elk Grove, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "Online",
@@ -4731,7 +4731,7 @@
   },
   {
     "Government name": "El Centro, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Vet",
     "Business online?": "PDF",
@@ -4741,7 +4741,7 @@
   },
   {
     "Government name": "Livermore, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -4751,7 +4751,7 @@
   },
   {
     "Government name": "San Mateo, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "In person",
     "Business online?": "PDF",
@@ -4761,7 +4761,7 @@
   },
   {
     "Government name": "Alexandria, Louisiana",
-    "": "LA",
+    "State": "LA",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -4771,7 +4771,7 @@
   },
   {
     "Government name": "Texas City, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -4781,7 +4781,7 @@
   },
   {
     "Government name": "Charleston, West Virginia",
-    "": "WV",
+    "State": "WV",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -4791,7 +4791,7 @@
   },
   {
     "Government name": "Minnetonka, Minnesota",
-    "": "MN",
+    "State": "MN",
     "Building online?": "Online (some)",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -4801,7 +4801,7 @@
   },
   {
     "Government name": "Stonecrest, Georgia",
-    "": "GA",
+    "State": "GA",
     "Building online?": "Online",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -4811,7 +4811,7 @@
   },
   {
     "Government name": "Montebello, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "Online",
@@ -4821,7 +4821,7 @@
   },
   {
     "Government name": "Grove City, Ohio",
-    "": "OH",
+    "State": "OH",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -4831,7 +4831,7 @@
   },
   {
     "Government name": "Huntington, West Virginia",
-    "": "WV",
+    "State": "WV",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -4841,7 +4841,7 @@
   },
   {
     "Government name": "Plainfield, New Jersey",
-    "": "NJ",
+    "State": "NJ",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "None found",
@@ -4851,7 +4851,7 @@
   },
   {
     "Government name": "Youngstown, Ohio",
-    "": "OH",
+    "State": "OH",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -4861,7 +4861,7 @@
   },
   {
     "Government name": "Springdale, Arkansas",
-    "": "AR",
+    "State": "AR",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "Online",
@@ -4871,7 +4871,7 @@
   },
   {
     "Government name": "Naperville, Illinois",
-    "": "IL",
+    "State": "IL",
     "Building online?": "None found",
     "Dog online?": "Online",
     "Business online?": "None found",
@@ -4881,7 +4881,7 @@
   },
   {
     "Government name": "Huntsville, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -4891,7 +4891,7 @@
   },
   {
     "Government name": "Woonsocket, Rhode Island",
-    "": "RI",
+    "State": "RI",
     "Building online?": "Online",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -4901,7 +4901,7 @@
   },
   {
     "Government name": "Farmington, New Mexico",
-    "": "NM",
+    "State": "NM",
     "Building online?": "In person",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -4911,7 +4911,7 @@
   },
   {
     "Government name": "Middletown, Connecticut",
-    "": "CT",
+    "State": "CT",
     "Building online?": "Online",
     "Dog online?": "PDF",
     "Business online?": "None found",
@@ -4921,7 +4921,7 @@
   },
   {
     "Government name": "Cedar Hill, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -4931,7 +4931,7 @@
   },
   {
     "Government name": "Burnsville, Minnesota",
-    "": "MN",
+    "State": "MN",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -4941,7 +4941,7 @@
   },
   {
     "Government name": "Union City, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "Online",
@@ -4951,7 +4951,7 @@
   },
   {
     "Government name": "Fort Smith, Arkansas",
-    "": "AR",
+    "State": "AR",
     "Building online?": "Online (some)",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -4961,7 +4961,7 @@
   },
   {
     "Government name": "Greenville, North Carolina",
-    "": "NC",
+    "State": "NC",
     "Building online?": "Online",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -4971,7 +4971,7 @@
   },
   {
     "Government name": "South Gate, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "None found",
     "Dog online?": "Online",
     "Business online?": "None found",
@@ -4981,7 +4981,7 @@
   },
   {
     "Government name": "High Point, North Carolina",
-    "": "NC",
+    "State": "NC",
     "Building online?": "Online",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -4991,7 +4991,7 @@
   },
   {
     "Government name": "Sugar Land, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -5001,7 +5001,7 @@
   },
   {
     "Government name": "Wilmington, North Carolina",
-    "": "NC",
+    "State": "NC",
     "Building online?": "Online (some)",
     "Dog online?": "None found",
     "Business online?": "In person",
@@ -5011,7 +5011,7 @@
   },
   {
     "Government name": "Belleville, Illinois",
-    "": "IL",
+    "State": "IL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -5021,7 +5021,7 @@
   },
   {
     "Government name": "Pine Bluff, Arkansas",
-    "": "AR",
+    "State": "AR",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -5031,7 +5031,7 @@
   },
   {
     "Government name": "The Colony, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -5041,7 +5041,7 @@
   },
   {
     "Government name": "Kannapolis, North Carolina",
-    "": "NC",
+    "State": "NC",
     "Building online?": "In person",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -5051,7 +5051,7 @@
   },
   {
     "Government name": "Burlington, North Carolina",
-    "": "NC",
+    "State": "NC",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -5061,7 +5061,7 @@
   },
   {
     "Government name": "West Haven, Connecticut",
-    "": "CT",
+    "State": "CT",
     "Building online?": "PDF",
     "Dog online?": "In person",
     "Business online?": "None found",
@@ -5071,7 +5071,7 @@
   },
   {
     "Government name": "Alpharetta, Georgia",
-    "": "GA",
+    "State": "GA",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -5081,7 +5081,7 @@
   },
   {
     "Government name": "Broomfield, Colorado",
-    "": "CO",
+    "State": "CO",
     "Building online?": "PDF",
     "Dog online?": "Vet",
     "Business online?": "PDF",
@@ -5091,7 +5091,7 @@
   },
   {
     "Government name": "Fall River, Massachusetts",
-    "": "MA",
+    "State": "MA",
     "Building online?": "In person",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -5101,7 +5101,7 @@
   },
   {
     "Government name": "Carrollton, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "None found",
@@ -5111,7 +5111,7 @@
   },
   {
     "Government name": "Leominster, Massachusetts",
-    "": "MA",
+    "State": "MA",
     "Building online?": "PDF",
     "Dog online?": "In person/ mail",
     "Business online?": "In person",
@@ -5121,7 +5121,7 @@
   },
   {
     "Government name": "St. George, Utah",
-    "": "UT",
+    "State": "UT",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -5131,7 +5131,7 @@
   },
   {
     "Government name": "Tuscaloosa, Alabama",
-    "": "AL",
+    "State": "AL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -5141,7 +5141,7 @@
   },
   {
     "Government name": "Richardson, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "Online (some)",
     "Dog online?": "Online",
     "Business online?": "None found",
@@ -5151,7 +5151,7 @@
   },
   {
     "Government name": "Wentzville, Missouri",
-    "": "MO",
+    "State": "MO",
     "Building online?": "Online",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -5161,7 +5161,7 @@
   },
   {
     "Government name": "Pittsfield, Massachusetts",
-    "": "MA",
+    "State": "MA",
     "Building online?": "Online",
     "Dog online?": "Online (some)",
     "Business online?": "None found",
@@ -5171,7 +5171,7 @@
   },
   {
     "Government name": "Middletown, Ohio",
-    "": "OH",
+    "State": "OH",
     "Building online?": "Online (some)",
     "Dog online?": "None found",
     "Business online?": "Online",
@@ -5181,7 +5181,7 @@
   },
   {
     "Government name": "Georgetown, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "Online",
     "Dog online?": "PDF",
     "Business online?": "None found",
@@ -5191,7 +5191,7 @@
   },
   {
     "Government name": "Cedar Park, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "Online",
     "Dog online?": "Online (some)",
     "Business online?": "None found",
@@ -5201,7 +5201,7 @@
   },
   {
     "Government name": "Boca Raton, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "Online",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -5211,7 +5211,7 @@
   },
   {
     "Government name": "Lewisville, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "Online",
     "Dog online?": "Online (some)",
     "Business online?": "None found",
@@ -5221,7 +5221,7 @@
   },
   {
     "Government name": "Clearwater, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "Online (some)",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -5231,7 +5231,7 @@
   },
   {
     "Government name": "Wilmington, Delaware",
-    "": "DE",
+    "State": "DE",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -5241,7 +5241,7 @@
   },
   {
     "Government name": "Rapid City, South Dakota",
-    "": "SD",
+    "State": "SD",
     "Building online?": "Online",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -5251,7 +5251,7 @@
   },
   {
     "Government name": "St. Joseph, Missouri",
-    "": "MO",
+    "State": "MO",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -5261,7 +5261,7 @@
   },
   {
     "Government name": "Bellflower, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "Online",
@@ -5271,7 +5271,7 @@
   },
   {
     "Government name": "Buena Park, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "Online (some)",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -5281,7 +5281,7 @@
   },
   {
     "Government name": "Las Cruces, New Mexico",
-    "": "NM",
+    "State": "NM",
     "Building online?": "Online",
     "Dog online?": "In person",
     "Business online?": "None found",
@@ -5291,7 +5291,7 @@
   },
   {
     "Government name": "Evansville, Indiana",
-    "": "IN",
+    "State": "IN",
     "Building online?": "Online (some)",
     "Dog online?": "In person",
     "Business online?": "None found",
@@ -5301,7 +5301,7 @@
   },
   {
     "Government name": "Hagerstown, Maryland",
-    "": "MD",
+    "State": "MD",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -5311,7 +5311,7 @@
   },
   {
     "Government name": "Hutchinson, Kansas",
-    "": "KS",
+    "State": "KS",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -5321,7 +5321,7 @@
   },
   {
     "Government name": "Twin Falls, Idaho",
-    "": "ID",
+    "State": "ID",
     "Building online?": "PDF",
     "Dog online?": "vet",
     "Business online?": "None found",
@@ -5331,7 +5331,7 @@
   },
   {
     "Government name": "Little Elm, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "None found",
@@ -5341,7 +5341,7 @@
   },
   {
     "Government name": "Stillwater, Oklahoma",
-    "": "OK",
+    "State": "OK",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -5351,7 +5351,7 @@
   },
   {
     "Government name": "Lauderhill, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "Online (some)",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -5361,7 +5361,7 @@
   },
   {
     "Government name": "Fort Myers, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -5371,7 +5371,7 @@
   },
   {
     "Government name": "Bellingham, Washington",
-    "": "WA",
+    "State": "WA",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "Online (some)",
@@ -5381,7 +5381,7 @@
   },
   {
     "Government name": "San Angelo, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "In person",
@@ -5391,7 +5391,7 @@
   },
   {
     "Government name": "Round Rock, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "PDF",
     "Dog online?": "Vet",
     "Business online?": "None found",
@@ -5401,7 +5401,7 @@
   },
   {
     "Government name": "Charleston, South Carolina",
-    "": "SC",
+    "State": "SC",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -5411,7 +5411,7 @@
   },
   {
     "Government name": "Greenacres, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -5421,7 +5421,7 @@
   },
   {
     "Government name": "Burlington, Vermont",
-    "": "VT",
+    "State": "VT",
     "Building online?": "PDF",
     "Dog online?": "In person",
     "Business online?": "None found",
@@ -5431,7 +5431,7 @@
   },
   {
     "Government name": "Hackensack, New Jersey",
-    "": "NJ",
+    "State": "NJ",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -5441,7 +5441,7 @@
   },
   {
     "Government name": "Binghamton, New York",
-    "": "NY",
+    "State": "NY",
     "Building online?": "PDF",
     "Dog online?": "in person",
     "Business online?": "PDF",
@@ -5451,7 +5451,7 @@
   },
   {
     "Government name": "Harrisburg, Pennsylvania",
-    "": "PA",
+    "State": "PA",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -5461,7 +5461,7 @@
   },
   {
     "Government name": "San Marcos, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "PDF",
     "Dog online?": "In person",
     "Business online?": "None found",
@@ -5471,7 +5471,7 @@
   },
   {
     "Government name": "Union City, New Jersey",
-    "": "NJ",
+    "State": "NJ",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -5481,7 +5481,7 @@
   },
   {
     "Government name": "North Port, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -5491,7 +5491,7 @@
   },
   {
     "Government name": "Manchester, New Hampshire",
-    "": "NH",
+    "State": "NH",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -5501,7 +5501,7 @@
   },
   {
     "Government name": "Bridgeport, Connecticut",
-    "": "CT",
+    "State": "CT",
     "Building online?": "In person",
     "Dog online?": "PDF",
     "Business online?": "None found",
@@ -5511,7 +5511,7 @@
   },
   {
     "Government name": "Titusville, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -5521,7 +5521,7 @@
   },
   {
     "Government name": "Centennial, Colorado",
-    "": "CO",
+    "State": "CO",
     "Building online?": "Online",
     "Dog online?": "Online",
     "Business online?": "Online",
@@ -5531,7 +5531,7 @@
   },
   {
     "Government name": "Alexandria, Virginia",
-    "": "VA",
+    "State": "VA",
     "Building online?": "Online",
     "Dog online?": "Online",
     "Business online?": "Online",
@@ -5541,7 +5541,7 @@
   },
   {
     "Government name": "Brookhaven, Georgia",
-    "": "GA",
+    "State": "GA",
     "Building online?": "Online (some)",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -5551,7 +5551,7 @@
   },
   {
     "Government name": "San Rafael, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "Online (some)",
     "Dog online?": "Online (some)",
     "Business online?": "Online",
@@ -5561,7 +5561,7 @@
   },
   {
     "Government name": "West Allis, Wisconsin",
-    "": "WI",
+    "State": "WI",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -5571,7 +5571,7 @@
   },
   {
     "Government name": "Eau Claire, Wisconsin",
-    "": "WI",
+    "State": "WI",
     "Building online?": "Online",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -5581,7 +5581,7 @@
   },
   {
     "Government name": "Somerville, Massachusetts",
-    "": "MA",
+    "State": "MA",
     "Building online?": "Online",
     "Dog online?": "PDF",
     "Business online?": "Online",
@@ -5591,7 +5591,7 @@
   },
   {
     "Government name": "Janesville, Wisconsin",
-    "": "WI",
+    "State": "WI",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -5601,7 +5601,7 @@
   },
   {
     "Government name": "Greenville, South Carolina",
-    "": "SC",
+    "State": "SC",
     "Building online?": "Online",
     "Dog online?": "Vet",
     "Business online?": "PDF",
@@ -5611,7 +5611,7 @@
   },
   {
     "Government name": "Marysville, Washington",
-    "": "WA",
+    "State": "WA",
     "Building online?": "Online (some)",
     "Dog online?": "Online (some)",
     "Business online?": "Online (some)",
@@ -5621,7 +5621,7 @@
   },
   {
     "Government name": "Plantation, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "Online (some)",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -5631,7 +5631,7 @@
   },
   {
     "Government name": "Portsmouth, Virginia",
-    "": "VA",
+    "State": "VA",
     "Building online?": "Online (some)",
     "Dog online?": "In person",
     "Business online?": "In person",
@@ -5641,7 +5641,7 @@
   },
   {
     "Government name": "San Marcos, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -5651,7 +5651,7 @@
   },
   {
     "Government name": "Costa Mesa, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "Online",
@@ -5661,7 +5661,7 @@
   },
   {
     "Government name": "St. Peters, Missouri",
-    "": "MO",
+    "State": "MO",
     "Building online?": "PDF",
     "Dog online?": "Vet",
     "Business online?": "In person",
@@ -5671,7 +5671,7 @@
   },
   {
     "Government name": "Santa Cruz, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "Online (some)",
     "Dog online?": "In person",
     "Business online?": "PDF",
@@ -5681,7 +5681,7 @@
   },
   {
     "Government name": "Framingham, Massachusetts",
-    "": "MA",
+    "State": "MA",
     "Building online?": "PDF",
     "Dog online?": "In person",
     "Business online?": "PDF",
@@ -5691,7 +5691,7 @@
   },
   {
     "Government name": "Palm Coast, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "Online (some)",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -5701,7 +5701,7 @@
   },
   {
     "Government name": "Rio Rancho, New Mexico",
-    "": "NM",
+    "State": "NM",
     "Building online?": "PDF",
     "Dog online?": "In person",
     "Business online?": "PDF",
@@ -5711,7 +5711,7 @@
   },
   {
     "Government name": "South Bend, Indiana",
-    "": "IN",
+    "State": "IN",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -5721,7 +5721,7 @@
   },
   {
     "Government name": "Florissant, Missouri",
-    "": "MO",
+    "State": "MO",
     "Building online?": "PDF",
     "Dog online?": "In person",
     "Business online?": "In person",
@@ -5731,7 +5731,7 @@
   },
   {
     "Government name": "Southfield, Michigan",
-    "": "MI",
+    "State": "MI",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -5741,7 +5741,7 @@
   },
   {
     "Government name": "Pleasanton, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -5751,7 +5751,7 @@
   },
   {
     "Government name": "Sioux City, Iowa",
-    "": "IA",
+    "State": "IA",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -5761,7 +5761,7 @@
   },
   {
     "Government name": "Goose Creek, South Carolina",
-    "": "SC",
+    "State": "SC",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "Online (some)",
@@ -5771,7 +5771,7 @@
   },
   {
     "Government name": "Maple Grove, Minnesota",
-    "": "MN",
+    "State": "MN",
     "Building online?": "Online",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -5781,7 +5781,7 @@
   },
   {
     "Government name": "New Britain, Connecticut",
-    "": "CT",
+    "State": "CT",
     "Building online?": "Online (some)",
     "Dog online?": "PDF",
     "Business online?": "None found",
@@ -5791,7 +5791,7 @@
   },
   {
     "Government name": "Perth Amboy, New Jersey",
-    "": "NJ",
+    "State": "NJ",
     "Building online?": "None found",
     "Dog online?": "In person",
     "Business online?": "None found",
@@ -5801,7 +5801,7 @@
   },
   {
     "Government name": "Port Arthur, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "PDF",
     "Dog online?": "In person",
     "Business online?": "None found",
@@ -5811,7 +5811,7 @@
   },
   {
     "Government name": "Noblesville, Indiana",
-    "": "IN",
+    "State": "IN",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -5821,7 +5821,7 @@
   },
   {
     "Government name": "Friendswood, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -5831,7 +5831,7 @@
   },
   {
     "Government name": "Victorville, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "Online",
     "Dog online?": "Online",
     "Business online?": "Online",
@@ -5841,7 +5841,7 @@
   },
   {
     "Government name": "Hattiesburg, Mississippi",
-    "": "MS",
+    "State": "MS",
     "Building online?": "Online (some)",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -5851,7 +5851,7 @@
   },
   {
     "Government name": "Beavercreek, Ohio",
-    "": "OH",
+    "State": "OH",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "None found",
@@ -5861,7 +5861,7 @@
   },
   {
     "Government name": "Westerville, Ohio",
-    "": "OH",
+    "State": "OH",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -5871,7 +5871,7 @@
   },
   {
     "Government name": "Spring Hill, Tennessee",
-    "": "TN",
+    "State": "TN",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -5881,7 +5881,7 @@
   },
   {
     "Government name": "Des Plaines, Illinois",
-    "": "IL",
+    "State": "IL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -5891,7 +5891,7 @@
   },
   {
     "Government name": "Springfield, Ohio",
-    "": "OH",
+    "State": "OH",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -5901,7 +5901,7 @@
   },
   {
     "Government name": "Terre Haute, Indiana",
-    "": "IN",
+    "State": "IN",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -5911,7 +5911,7 @@
   },
   {
     "Government name": "East Orange, New Jersey",
-    "": "NJ",
+    "State": "NJ",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -5921,7 +5921,7 @@
   },
   {
     "Government name": "Bloomington, Illinois",
-    "": "IL",
+    "State": "IL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -5931,7 +5931,7 @@
   },
   {
     "Government name": "Miami Beach, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "Online (some)",
     "Dog online?": "vet",
     "Business online?": "Online",
@@ -5941,7 +5941,7 @@
   },
   {
     "Government name": "Grand Forks, North Dakota",
-    "": "ND",
+    "State": "ND",
     "Building online?": "In person",
     "Dog online?": "PDF",
     "Business online?": "None found",
@@ -5951,7 +5951,7 @@
   },
   {
     "Government name": "Bloomington, Minnesota",
-    "": "MN",
+    "State": "MN",
     "Building online?": "Online",
     "Dog online?": "In person/ mail",
     "Business online?": "PDF",
@@ -5961,7 +5961,7 @@
   },
   {
     "Government name": "Lake Forest, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "Online",
@@ -5971,7 +5971,7 @@
   },
   {
     "Government name": "Simi Valley, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "Online (some)",
@@ -5981,7 +5981,7 @@
   },
   {
     "Government name": "Springfield, Missouri",
-    "": "MO",
+    "State": "MO",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -5991,7 +5991,7 @@
   },
   {
     "Government name": "Cedar Falls, Iowa",
-    "": "IA",
+    "State": "IA",
     "Building online?": "Online (some)",
     "Dog online?": "Vet",
     "Business online?": "None found",
@@ -6001,7 +6001,7 @@
   },
   {
     "Government name": "Haltom City, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "None found",
@@ -6011,7 +6011,7 @@
   },
   {
     "Government name": "Diamond Bar, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "In person",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -6021,7 +6021,7 @@
   },
   {
     "Government name": "Bloomington, Indiana",
-    "": "IN",
+    "State": "IN",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -6031,7 +6031,7 @@
   },
   {
     "Government name": "New Bedford, Massachusetts",
-    "": "MA",
+    "State": "MA",
     "Building online?": "Online",
     "Dog online?": "PDF",
     "Business online?": "None found",
@@ -6041,7 +6041,7 @@
   },
   {
     "Government name": "Federal Way, Washington",
-    "": "WA",
+    "State": "WA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "Online (some)",
@@ -6051,7 +6051,7 @@
   },
   {
     "Government name": "Clarksville, Tennessee",
-    "": "TN",
+    "State": "TN",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -6061,7 +6061,7 @@
   },
   {
     "Government name": "Gainesville, Georgia",
-    "": "GA",
+    "State": "GA",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -6071,7 +6071,7 @@
   },
   {
     "Government name": "Bentonville, Arkansas",
-    "": "AR",
+    "State": "AR",
     "Building online?": "PDF",
     "Dog online?": "In person",
     "Business online?": "None found",
@@ -6081,7 +6081,7 @@
   },
   {
     "Government name": "Aliso Viejo, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -6091,7 +6091,7 @@
   },
   {
     "Government name": "Rocky Mount, North Carolina",
-    "": "NC",
+    "State": "NC",
     "Building online?": "PDF",
     "Dog online?": "In person",
     "Business online?": "In person",
@@ -6101,7 +6101,7 @@
   },
   {
     "Government name": "North Miami, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "Coming soon",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -6111,7 +6111,7 @@
   },
   {
     "Government name": "Schenectady, New York",
-    "": "NY",
+    "State": "NY",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -6121,7 +6121,7 @@
   },
   {
     "Government name": "St. Charles, Missouri",
-    "": "MO",
+    "State": "MO",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "In person",
@@ -6131,7 +6131,7 @@
   },
   {
     "Government name": "Springfield, Illinois",
-    "": "IL",
+    "State": "IL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -6141,7 +6141,7 @@
   },
   {
     "Government name": "Springfield, Massachusetts",
-    "": "MA",
+    "State": "MA",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -6151,7 +6151,7 @@
   },
   {
     "Government name": "Santa Clara, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "Online",
     "Dog online?": "Online (some)",
     "Business online?": "Online",
@@ -6161,7 +6161,7 @@
   },
   {
     "Government name": "West Covina, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "Online (some)",
@@ -6171,7 +6171,7 @@
   },
   {
     "Government name": "Westminster, Colorado",
-    "": "CO",
+    "State": "CO",
     "Building online?": "Online",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -6181,7 +6181,7 @@
   },
   {
     "Government name": "Kansas City, Kansas",
-    "": "KS",
+    "State": "KS",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -6191,7 +6191,7 @@
   },
   {
     "Government name": "Morgan Hill, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "Online (some)",
@@ -6201,7 +6201,7 @@
   },
   {
     "Government name": "Watsonville, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -6211,7 +6211,7 @@
   },
   {
     "Government name": "Pico Rivera, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "Online (some)",
@@ -6221,7 +6221,7 @@
   },
   {
     "Government name": "Port Orange, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "Online (some)",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -6231,7 +6231,7 @@
   },
   {
     "Government name": "Yorba Linda, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "Online (some)",
@@ -6241,7 +6241,7 @@
   },
   {
     "Government name": "San Leandro, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "Online",
@@ -6251,7 +6251,7 @@
   },
   {
     "Government name": "Westminster, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -6261,7 +6261,7 @@
   },
   {
     "Government name": "League City, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "PDF",
     "Dog online?": "vet",
     "Business online?": "PDF",
@@ -6271,7 +6271,7 @@
   },
   {
     "Government name": "Gainesville, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "PDF",
     "Dog online?": "Vet",
     "Business online?": "Online",
@@ -6281,7 +6281,7 @@
   },
   {
     "Government name": "San Gabriel, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Vet",
     "Business online?": "In person",
@@ -6291,7 +6291,7 @@
   },
   {
     "Government name": "Fort Pierce, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -6301,7 +6301,7 @@
   },
   {
     "Government name": "San Jacinto, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -6311,7 +6311,7 @@
   },
   {
     "Government name": "Palm Desert, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -6321,7 +6321,7 @@
   },
   {
     "Government name": "Coon Rapids, Minnesota",
-    "": "MN",
+    "State": "MN",
     "Building online?": "Online (some)",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -6331,7 +6331,7 @@
   },
   {
     "Government name": "Chino Hills, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -6341,7 +6341,7 @@
   },
   {
     "Government name": "Johns Creek, Georgia",
-    "": "GA",
+    "State": "GA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -6351,7 +6351,7 @@
   },
   {
     "Government name": "Fond du Lac, Wisconsin",
-    "": "WI",
+    "State": "WI",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -6361,7 +6361,7 @@
   },
   {
     "Government name": "Casa Grande, Arizona",
-    "": "AZ",
+    "State": "AZ",
     "Building online?": "PDF",
     "Dog online?": "In person",
     "Business online?": "PDF",
@@ -6371,7 +6371,7 @@
   },
   {
     "Government name": "Porterville, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -6381,7 +6381,7 @@
   },
   {
     "Government name": "Idaho Falls, Idaho",
-    "": "ID",
+    "State": "ID",
     "Building online?": "PDF",
     "Dog online?": "In person",
     "Business online?": "PDF",
@@ -6391,7 +6391,7 @@
   },
   {
     "Government name": "Springfield, Oregon",
-    "": "OR",
+    "State": "OR",
     "Building online?": "Online (some)",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -6401,7 +6401,7 @@
   },
   {
     "Government name": "Santa Maria, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -6411,7 +6411,7 @@
   },
   {
     "Government name": "West Jordan, Utah",
-    "": "UT",
+    "State": "UT",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -6421,7 +6421,7 @@
   },
   {
     "Government name": "Great Falls, Montana",
-    "": "MT",
+    "State": "MT",
     "Building online?": "PDF",
     "Dog online?": "Coming soon",
     "Business online?": "PDF",
@@ -6431,7 +6431,7 @@
   },
   {
     "Government name": "Strongsville, Ohio",
-    "": "OH",
+    "State": "OH",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "None found",
@@ -6441,7 +6441,7 @@
   },
   {
     "Government name": "Bossier City, Louisiana",
-    "": "LA",
+    "State": "LA",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -6451,7 +6451,7 @@
   },
   {
     "Government name": "Methuen Town, Massachusetts",
-    "": "MA",
+    "State": "MA",
     "Building online?": "Online",
     "Dog online?": "Online",
     "Business online?": "None found",
@@ -6461,7 +6461,7 @@
   },
   {
     "Government name": "Pflugerville, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -6471,7 +6471,7 @@
   },
   {
     "Government name": "Lake Charles, Louisiana",
-    "": "LA",
+    "State": "LA",
     "Building online?": "Online",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -6481,7 +6481,7 @@
   },
   {
     "Government name": "New Rochelle, New York",
-    "": "NY",
+    "State": "NY",
     "Building online?": "Online",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -6491,7 +6491,7 @@
   },
   {
     "Government name": "Eden Prairie, Minnesota",
-    "": "MN",
+    "State": "MN",
     "Building online?": "Online (some)",
     "Dog online?": "Online",
     "Business online?": "None found",
@@ -6501,7 +6501,7 @@
   },
   {
     "Government name": "Crystal Lake, Illinois",
-    "": "IL",
+    "State": "IL",
     "Building online?": "Online (some)",
     "Dog online?": "None found",
     "Business online?": "Online",
@@ -6511,7 +6511,7 @@
   },
   {
     "Government name": "Fayetteville, Arkansas",
-    "": "AR",
+    "State": "AR",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "Online",
@@ -6521,7 +6521,7 @@
   },
   {
     "Government name": "Chesterfield, Missouri",
-    "": "MO",
+    "State": "MO",
     "Building online?": "None found",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -6531,7 +6531,7 @@
   },
   {
     "Government name": "Grand Island, Nebraska",
-    "": "NE",
+    "State": "NE",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -6541,7 +6541,7 @@
   },
   {
     "Government name": "White Plains, New York",
-    "": "NY",
+    "State": "NY",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -6551,7 +6551,7 @@
   },
   {
     "Government name": "Taylorsville, Utah",
-    "": "UT",
+    "State": "UT",
     "Building online?": "Online",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -6561,7 +6561,7 @@
   },
   {
     "Government name": "Jacksonville, North Carolina",
-    "": "NC",
+    "State": "NC",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -6571,7 +6571,7 @@
   },
   {
     "Government name": "South Fulton, Georgia",
-    "": "GA",
+    "State": "GA",
     "Building online?": "Coming soon",
     "Dog online?": "None found",
     "Business online?": "In person",
@@ -6581,7 +6581,7 @@
   },
   {
     "Government name": "Mount Vernon, New York",
-    "": "NY",
+    "State": "NY",
     "Building online?": "PDF",
     "Dog online?": "In person",
     "Business online?": "In person",
@@ -6591,7 +6591,7 @@
   },
   {
     "Government name": "Gaithersburg, Maryland",
-    "": "MD",
+    "State": "MD",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "None found",
@@ -6601,7 +6601,7 @@
   },
   {
     "Government name": "Blue Springs, Missouri",
-    "": "MO",
+    "State": "MO",
     "Building online?": "Online (some)",
     "Dog online?": "None found",
     "Business online?": "Online",
@@ -6611,7 +6611,7 @@
   },
   {
     "Government name": "Midwest City, Oklahoma",
-    "": "OK",
+    "State": "OK",
     "Building online?": "Online",
     "Dog online?": "vet",
     "Business online?": "Online",
@@ -6621,7 +6621,7 @@
   },
   {
     "Government name": "Walnut Creek, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "Online (some)",
     "Dog online?": "None found",
     "Business online?": "Online (some)",
@@ -6631,7 +6631,7 @@
   },
   {
     "Government name": "Winter Haven, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -6641,7 +6641,7 @@
   },
   {
     "Government name": "Johnson City, Tennessee",
-    "": "TN",
+    "State": "TN",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -6651,7 +6651,7 @@
   },
   {
     "Government name": "Independence, Missouri",
-    "": "MO",
+    "State": "MO",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "Online",
@@ -6661,7 +6661,7 @@
   },
   {
     "Government name": "Cedar Rapids, Iowa",
-    "": "IA",
+    "State": "IA",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -6671,7 +6671,7 @@
   },
   {
     "Government name": "Rohnert Park, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "Online (some)",
     "Dog online?": "In person",
     "Business online?": "PDF",
@@ -6681,7 +6681,7 @@
   },
   {
     "Government name": "East Lansing, Michigan",
-    "": "MI",
+    "State": "MI",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -6691,7 +6691,7 @@
   },
   {
     "Government name": "Apple Valley, Minnesota",
-    "": "MN",
+    "State": "MN",
     "Building online?": "Online",
     "Dog online?": "PDF",
     "Business online?": "None found",
@@ -6701,7 +6701,7 @@
   },
   {
     "Government name": "San Clemente, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -6711,7 +6711,7 @@
   },
   {
     "Government name": "Wilkes-Barre, Pennsylvania",
-    "": "PA",
+    "State": "PA",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "In person",
@@ -6721,7 +6721,7 @@
   },
   {
     "Government name": "Oakland Park, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -6731,7 +6731,7 @@
   },
   {
     "Government name": "Murfreesboro, Tennessee",
-    "": "TN",
+    "State": "TN",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "In person",
@@ -6741,7 +6741,7 @@
   },
   {
     "Government name": "Harrisonburg, Virginia",
-    "": "VA",
+    "State": "VA",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -6751,7 +6751,7 @@
   },
   {
     "Government name": "South Jordan, Utah",
-    "": "UT",
+    "State": "UT",
     "Building online?": "Online",
     "Dog online?": "Online",
     "Business online?": "Online",
@@ -6761,7 +6761,7 @@
   },
   {
     "Government name": "Santa Monica, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "Online (some)",
@@ -6771,7 +6771,7 @@
   },
   {
     "Government name": "Fort Collins, Colorado",
-    "": "CO",
+    "State": "CO",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "Online",
@@ -6781,7 +6781,7 @@
   },
   {
     "Government name": "Garden Grove, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "Online",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -6791,7 +6791,7 @@
   },
   {
     "Government name": "Battle Creek, Michigan",
-    "": "MI",
+    "State": "MI",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -6801,7 +6801,7 @@
   },
   {
     "Government name": "Delray Beach, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -6811,7 +6811,7 @@
   },
   {
     "Government name": "Redwood City, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "Online (some)",
@@ -6821,7 +6821,7 @@
   },
   {
     "Government name": "Lee's Summit, Missouri",
-    "": "MO",
+    "State": "MO",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -6831,7 +6831,7 @@
   },
   {
     "Government name": "Bell Gardens, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "In person",
     "Dog online?": "Online",
     "Business online?": "In person",
@@ -6841,7 +6841,7 @@
   },
   {
     "Government name": "Ormond Beach, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "PDF",
     "Dog online?": "In person",
     "Business online?": "PDF",
@@ -6851,7 +6851,7 @@
   },
   {
     "Government name": "Sierra Vista, Arizona",
-    "": "AZ",
+    "State": "AZ",
     "Building online?": "Online (some)",
     "Dog online?": "In person",
     "Business online?": "PDF",
@@ -6861,7 +6861,7 @@
   },
   {
     "Government name": "Palm Springs, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "In person/ mail",
     "Business online?": "PDF",
@@ -6871,7 +6871,7 @@
   },
   {
     "Government name": "Coral Gables, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "Coming soon",
     "Dog online?": "Vet",
     "Business online?": "PDF",
@@ -6881,7 +6881,7 @@
   },
   {
     "Government name": "Broken Arrow, Oklahoma",
-    "": "OK",
+    "State": "OK",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -6891,7 +6891,7 @@
   },
   {
     "Government name": "Baldwin Park, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -6901,7 +6901,7 @@
   },
   {
     "Government name": "New Brunswick, New Jersey",
-    "": "NJ",
+    "State": "NJ",
     "Building online?": "None found",
     "Dog online?": "PDF",
     "Business online?": "None found",
@@ -6911,7 +6911,7 @@
   },
   {
     "Government name": "Warner Robins, Georgia",
-    "": "GA",
+    "State": "GA",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -6921,7 +6921,7 @@
   },
   {
     "Government name": "Niagara Falls, New York",
-    "": "NY",
+    "State": "NY",
     "Building online?": "None found",
     "Dog online?": "In person",
     "Business online?": "PDF",
@@ -6931,7 +6931,7 @@
   },
   {
     "Government name": "Wichita Falls, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "PDF",
     "Dog online?": "Vet",
     "Business online?": "None found",
@@ -6941,7 +6941,7 @@
   },
   {
     "Government name": "Winter Garden, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "Online",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -6951,7 +6951,7 @@
   },
   {
     "Government name": "Pinellas Park, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "In person",
@@ -6961,7 +6961,7 @@
   },
   {
     "Government name": "New Braunfels, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "PDF",
     "Dog online?": "Vet",
     "Business online?": "None found",
@@ -6971,7 +6971,7 @@
   },
   {
     "Government name": "Miami Gardens, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -6981,7 +6981,7 @@
   },
   {
     "Government name": "Boynton Beach, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "Coming soon",
     "Dog online?": "None found",
     "Business online?": "Online",
@@ -6991,7 +6991,7 @@
   },
   {
     "Government name": "Brooklyn Park, Minnesota",
-    "": "MN",
+    "State": "MN",
     "Building online?": "Online (some)",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -7001,7 +7001,7 @@
   },
   {
     "Government name": "Coeur d'Alene, Idaho",
-    "": "ID",
+    "State": "ID",
     "Building online?": "Online (some)",
     "Dog online?": "Vet",
     "Business online?": "Online",
@@ -7011,7 +7011,7 @@
   },
   {
     "Government name": "Commerce City, Colorado",
-    "": "CO",
+    "State": "CO",
     "Building online?": "Online (some)",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -7021,7 +7021,7 @@
   },
   {
     "Government name": "Laguna Niguel, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "Online (some)",
     "Dog online?": "Online (some)",
     "Business online?": "None found",
@@ -7031,7 +7031,7 @@
   },
   {
     "Government name": "Daytona Beach, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -7041,7 +7041,7 @@
   },
   {
     "Government name": "Weymouth Town, Massachusetts",
-    "": "MA",
+    "State": "MA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "None found",
@@ -7051,7 +7051,7 @@
   },
   {
     "Government name": "Coconut Creek, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "Online",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -7061,7 +7061,7 @@
   },
   {
     "Government name": "Missouri City, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "None found",
@@ -7071,7 +7071,7 @@
   },
   {
     "Government name": "Mission Viejo, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "None found",
@@ -7081,7 +7081,7 @@
   },
   {
     "Government name": "Jurupa Valley, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -7091,7 +7091,7 @@
   },
   {
     "Government name": "Coral Springs, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -7101,7 +7101,7 @@
   },
   {
     "Government name": "Pompano Beach, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "In person",
@@ -7111,7 +7111,7 @@
   },
   {
     "Government name": "Newport Beach, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "Online (some)",
     "Dog online?": "Online (some)",
     "Business online?": "Online",
@@ -7121,7 +7121,7 @@
   },
   {
     "Government name": "Lake Elsinore, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "Online (some)",
     "Dog online?": "PDF",
     "Business online?": "Online (some)",
@@ -7131,7 +7131,7 @@
   },
   {
     "Government name": "Mountain View, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "Online (some)",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -7141,7 +7141,7 @@
   },
   {
     "Government name": "Thousand Oaks, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "Online (some)",
     "Dog online?": "vet",
     "Business online?": "PDF",
@@ -7151,7 +7151,7 @@
   },
   {
     "Government name": "National City, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "Online",
@@ -7161,7 +7161,7 @@
   },
   {
     "Government name": "Santa Barbara, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -7171,7 +7171,7 @@
   },
   {
     "Government name": "Sandy Springs, Georgia",
-    "": "GA",
+    "State": "GA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -7181,7 +7181,7 @@
   },
   {
     "Government name": "Bullhead City, Arizona",
-    "": "AZ",
+    "State": "AZ",
     "Building online?": "PDF",
     "Dog online?": "in person",
     "Business online?": "PDF",
@@ -7191,7 +7191,7 @@
   },
   {
     "Government name": "Monterey Park, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -7201,7 +7201,7 @@
   },
   {
     "Government name": "Redondo Beach, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -7211,7 +7211,7 @@
   },
   {
     "Government name": "Bowling Green, Kentucky",
-    "": "KY",
+    "State": "KY",
     "Building online?": "PDF",
     "Dog online?": "Vet",
     "Business online?": "PDF",
@@ -7221,7 +7221,7 @@
   },
   {
     "Government name": "Jeffersonville, Indiana",
-    "": "IN",
+    "State": "IN",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -7231,7 +7231,7 @@
   },
   {
     "Government name": "West Lafayette, Indiana",
-    "": "IN",
+    "State": "IN",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -7241,7 +7241,7 @@
   },
   {
     "Government name": "Cuyahoga Falls, Ohio",
-    "": "OH",
+    "State": "OH",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -7251,7 +7251,7 @@
   },
   {
     "Government name": "Farmers Branch, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -7261,7 +7261,7 @@
   },
   {
     "Government name": "Bonita Springs, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -7271,7 +7271,7 @@
   },
   {
     "Government name": "Hendersonville, Tennessee",
-    "": "TN",
+    "State": "TN",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -7281,7 +7281,7 @@
   },
   {
     "Government name": "Spokane Valley, Washington",
-    "": "WA",
+    "State": "WA",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "Online (some)",
@@ -7291,7 +7291,7 @@
   },
   {
     "Government name": "Grand Junction, Colorado",
-    "": "CO",
+    "State": "CO",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -7301,7 +7301,7 @@
   },
   {
     "Government name": "Rancho Cordova, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "Online (some)",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -7311,7 +7311,7 @@
   },
   {
     "Government name": "Jefferson City, Missouri",
-    "": "MO",
+    "State": "MO",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -7321,7 +7321,7 @@
   },
   {
     "Government name": "Pembroke Pines, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -7331,7 +7331,7 @@
   },
   {
     "Government name": "Citrus Heights, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "Online (some)",
     "Dog online?": "Online (some)",
     "Business online?": "Online (some)",
@@ -7341,7 +7341,7 @@
   },
   {
     "Government name": "St. Louis Park, Minnesota",
-    "": "MN",
+    "State": "MN",
     "Building online?": "Online (some)",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -7351,7 +7351,7 @@
   },
   {
     "Government name": "Cathedral City, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -7361,7 +7361,7 @@
   },
   {
     "Government name": "Council Bluffs, Iowa",
-    "": "IA",
+    "State": "IA",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "Online (some)",
@@ -7371,7 +7371,7 @@
   },
   {
     "Government name": "Barnstable Town, Massachusetts",
-    "": "MA",
+    "State": "MA",
     "Building online?": "Online",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -7381,7 +7381,7 @@
   },
   {
     "Government name": "Deerfield Beach, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -7391,7 +7391,7 @@
   },
   {
     "Government name": "East Providence, Rhode Island",
-    "": "RI",
+    "State": "RI",
     "Building online?": "Online",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -7401,7 +7401,7 @@
   },
   {
     "Government name": "West Des Moines, Iowa",
-    "": "IA",
+    "State": "IA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "None found",
@@ -7411,7 +7411,7 @@
   },
   {
     "Government name": "West Palm Beach, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -7421,7 +7421,7 @@
   },
   {
     "Government name": "College Station, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "Online",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -7431,7 +7431,7 @@
   },
   {
     "Government name": "West Sacramento, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "Online (some)",
@@ -7441,7 +7441,7 @@
   },
   {
     "Government name": "San Luis Obispo, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "In person",
     "Business online?": "Online",
@@ -7451,7 +7451,7 @@
   },
   {
     "Government name": "Fountain Valley, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "Online (some)",
@@ -7461,7 +7461,7 @@
   },
   {
     "Government name": "Apache Junction, Arizona",
-    "": "AZ",
+    "State": "AZ",
     "Building online?": "PDF",
     "Dog online?": "In person",
     "Business online?": "PDF",
@@ -7471,7 +7471,7 @@
   },
   {
     "Government name": "Charlottesville, Virginia",
-    "": "VA",
+    "State": "VA",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -7481,7 +7481,7 @@
   },
   {
     "Government name": "Rochester Hills, Michigan",
-    "": "MI",
+    "State": "MI",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "In person",
@@ -7491,7 +7491,7 @@
   },
   {
     "Government name": "Huntington Park, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -7501,7 +7501,7 @@
   },
   {
     "Government name": "North Lauderdale, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "Online",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -7511,7 +7511,7 @@
   },
   {
     "Government name": "North Charleston, South Carolina",
-    "": "SC",
+    "State": "SC",
     "Building online?": "Online",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -7521,7 +7521,7 @@
   },
   {
     "Government name": "Dearborn Heights, Michigan",
-    "": "MI",
+    "State": "MI",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -7531,7 +7531,7 @@
   },
   {
     "Government name": "Sterling Heights, Michigan",
-    "": "MI",
+    "State": "MI",
     "Building online?": "Online (some)",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -7541,7 +7541,7 @@
   },
   {
     "Government name": "West Valley City, Utah",
-    "": "UT",
+    "State": "UT",
     "Building online?": "Online",
     "Dog online?": "in person",
     "Business online?": "PDF",
@@ -7551,7 +7551,7 @@
   },
   {
     "Government name": "Lake Havasu City, Arizona",
-    "": "AZ",
+    "State": "AZ",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -7561,7 +7561,7 @@
   },
   {
     "Government name": "Farmington Hills, Michigan",
-    "": "MI",
+    "State": "MI",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -7571,7 +7571,7 @@
   },
   {
     "Government name": "St. Clair Shores, Michigan",
-    "": "MI",
+    "State": "MI",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -7581,7 +7581,7 @@
   },
   {
     "Government name": "Peachtree Corners, Georgia",
-    "": "GA",
+    "State": "GA",
     "Building online?": "Online (some)",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -7591,7 +7591,7 @@
   },
   {
     "Government name": "North Miami Beach, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -7601,7 +7601,7 @@
   },
   {
     "Government name": "Altamonte Springs, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "Online",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -7611,7 +7611,7 @@
   },
   {
     "Government name": "Cleveland Heights, Ohio",
-    "": "OH",
+    "State": "OH",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -7621,7 +7621,7 @@
   },
   {
     "Government name": "North Little Rock, Arkansas",
-    "": "AR",
+    "State": "AR",
     "Building online?": "PDF",
     "Dog online?": "vet",
     "Business online?": "PDF",
@@ -7631,7 +7631,7 @@
   },
   {
     "Government name": "Palm Beach Gardens, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "Online (some)",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -7641,7 +7641,7 @@
   },
   {
     "Government name": "South San Francisco, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "Online (some)",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -7651,7 +7651,7 @@
   },
   {
     "Government name": "Rancho Palos Verdes, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "Online (some)",
@@ -7661,7 +7661,7 @@
   },
   {
     "Government name": "North Richland Hills, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "None found",
@@ -7671,7 +7671,7 @@
   },
   {
     "Government name": "Rancho Santa Margarita, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "None found",
@@ -7681,7 +7681,7 @@
   },
   {
     "Government name": "San Buenaventura (Ventura), California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -7691,7 +7691,7 @@
   },
   {
     "Government name": "West New York, New Jersey",
-    "": "NY",
+    "State": "NY",
     "Building online?": "None found",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -7701,7 +7701,7 @@
   },
   {
     "Government name": "Hempstead, New York",
-    "": "NY",
+    "State": "NY",
     "Building online?": "None found",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -7711,7 +7711,7 @@
   },
   {
     "Government name": "Orland Park, Illinois",
-    "": "IL",
+    "State": "IL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -7721,7 +7721,7 @@
   },
   {
     "Government name": "Cicero, Illinois",
-    "": "IL",
+    "State": "IL",
     "Building online?": "PDF",
     "Dog online?": "In person",
     "Business online?": "PDF",
@@ -7731,7 +7731,7 @@
   },
   {
     "Government name": "Cary, North Carolina",
-    "": "NC",
+    "State": "NC",
     "Building online?": "Online",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -7741,7 +7741,7 @@
   },
   {
     "Government name": "Wake Forest, North Carolina",
-    "": "NC",
+    "State": "NC",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -7751,7 +7751,7 @@
   },
   {
     "Government name": "Apex, North Carolina",
-    "": "NC",
+    "State": "NC",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -7761,7 +7761,7 @@
   },
   {
     "Government name": "State College, Pennsylvania",
-    "": "PA",
+    "State": "PA",
     "Building online?": "PDF",
     "Dog online?": "In person/ mail",
     "Business online?": "None found",
@@ -7771,7 +7771,7 @@
   },
   {
     "Government name": "Downers Grove, Illinois",
-    "": "IL",
+    "State": "IL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "None found",
@@ -7781,7 +7781,7 @@
   },
   {
     "Government name": "Schaumburg, Illinois",
-    "": "IL",
+    "State": "IL",
     "Building online?": "Online",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -7791,7 +7791,7 @@
   },
   {
     "Government name": "Kearny, New Jersey",
-    "": "NJ",
+    "State": "NJ",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -7801,7 +7801,7 @@
   },
   {
     "Government name": "Freeport, New York",
-    "": "NY",
+    "State": "NY",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -7811,7 +7811,7 @@
   },
   {
     "Government name": "Wellington, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "In person",
@@ -7821,7 +7821,7 @@
   },
   {
     "Government name": "Palatine, Illinois",
-    "": "IL",
+    "State": "IL",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -7831,7 +7831,7 @@
   },
   {
     "Government name": "Plainfield, Illinois",
-    "": "IL",
+    "State": "IL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -7841,7 +7841,7 @@
   },
   {
     "Government name": "Bolingbrook, Illinois",
-    "": "IL",
+    "State": "IL",
     "Building online?": "In person",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -7851,7 +7851,7 @@
   },
   {
     "Government name": "Summerville, South Carolina",
-    "": "SC",
+    "State": "SC",
     "Building online?": "Online",
     "Dog online?": "None found",
     "Business online?": "Online",
@@ -7861,7 +7861,7 @@
   },
   {
     "Government name": "Chapel Hill, North Carolina",
-    "": "NC",
+    "State": "NC",
     "Building online?": "Online (some)",
     "Dog online?": "Online (some)",
     "Business online?": "None found",
@@ -7871,7 +7871,7 @@
   },
   {
     "Government name": "Jupiter, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "Online",
     "Dog online?": "None found",
     "Business online?": "Online",
@@ -7881,7 +7881,7 @@
   },
   {
     "Government name": "Arlington Heights, Illinois",
-    "": "IL",
+    "State": "IL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "Online",
@@ -7891,7 +7891,7 @@
   },
   {
     "Government name": "Flower Mound, Texas",
-    "": "TX",
+    "State": "TX",
     "Building online?": "Online (some)",
     "Dog online?": "PDF",
     "Business online?": "None found",
@@ -7901,7 +7901,7 @@
   },
   {
     "Government name": "Danville, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -7911,7 +7911,7 @@
   },
   {
     "Government name": "Mount Prospect, Illinois",
-    "": "IL",
+    "State": "IL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -7921,7 +7921,7 @@
   },
   {
     "Government name": "Normal, Illinois",
-    "": "IL",
+    "State": "IL",
     "Building online?": "Online (some)",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -7931,7 +7931,7 @@
   },
   {
     "Government name": "Parker, Colorado",
-    "": "CO",
+    "State": "CO",
     "Building online?": "Online",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -7941,7 +7941,7 @@
   },
   {
     "Government name": "Mount Pleasant, South Carolina",
-    "": "SC",
+    "State": "SC",
     "Building online?": "Online",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -7951,7 +7951,7 @@
   },
   {
     "Government name": "Royal Palm Beach, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -7961,7 +7961,7 @@
   },
   {
     "Government name": "Buffalo Grove, Illinois",
-    "": "IL",
+    "State": "IL",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -7971,7 +7971,7 @@
   },
   {
     "Government name": "Prescott Valley, Arizona",
-    "": "AZ",
+    "State": "AZ",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -7981,7 +7981,7 @@
   },
   {
     "Government name": "Collierville, Tennessee",
-    "": "TN",
+    "State": "TN",
     "Building online?": "Online",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -7991,7 +7991,7 @@
   },
   {
     "Government name": "Smyrna, Tennessee",
-    "": "TN",
+    "State": "TN",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -8001,7 +8001,7 @@
   },
   {
     "Government name": "Huntersville, North Carolina",
-    "": "NC",
+    "State": "NC",
     "Building online?": "Online",
     "Dog online?": "PDF",
     "Business online?": "None found",
@@ -8011,7 +8011,7 @@
   },
   {
     "Government name": "Apple Valley, California",
-    "": "CA",
+    "State": "CA",
     "Building online?": "PDF",
     "Dog online?": "In person",
     "Business online?": "Online (some)",
@@ -8021,7 +8021,7 @@
   },
   {
     "Government name": "Cutler Bay, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "PDF",
     "Dog online?": "Vet",
     "Business online?": "PDF",
@@ -8031,7 +8031,7 @@
   },
   {
     "Government name": "Oak Lawn, Illinois",
-    "": "IL",
+    "State": "IL",
     "Building online?": "PDF",
     "Dog online?": "In person",
     "Business online?": "PDF",
@@ -8041,7 +8041,7 @@
   },
   {
     "Government name": "Tinley Park, Illinois",
-    "": "IL",
+    "State": "IL",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -8051,7 +8051,7 @@
   },
   {
     "Government name": "Athens-Clarke County",
-    "": "GA",
+    "State": "GA",
     "Building online?": "PDF",
     "Dog online?": "None found",
     "Business online?": "PDF",
@@ -8061,7 +8061,7 @@
   },
   {
     "Government name": "Macon-Bibb County, Georgia",
-    "": "GA",
+    "State": "GA",
     "Building online?": "PDF",
     "Dog online?": "vet",
     "Business online?": "PDF",
@@ -8071,7 +8071,7 @@
   },
   {
     "Government name": "Oak Park, Illinois",
-    "": "IL",
+    "State": "IL",
     "Building online?": "Online",
     "Dog online?": "Online",
     "Business online?": "Online",
@@ -8081,7 +8081,7 @@
   },
   {
     "Government name": "Castle Rock, Colorado",
-    "": "CO",
+    "State": "CO",
     "Building online?": "Online",
     "Dog online?": "Online",
     "Business online?": "Online",
@@ -8091,7 +8091,7 @@
   },
   {
     "Government name": "Carson City, Nevada",
-    "": "NV",
+    "State": "NV",
     "Building online?": "Online",
     "Dog online?": "PDF",
     "Business online?": "Online",
@@ -8101,7 +8101,7 @@
   },
   {
     "Government name": "Santa Monica, CA",
-    "": "CA",
+    "State": "CA",
     "Building online?": "Online (some)",
     "Dog online?": "Vet",
     "Business online?": "Online",
@@ -8111,7 +8111,7 @@
   },
   {
     "Government name": "Queen Creek, Arizona",
-    "": "AZ",
+    "State": "AZ",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "Online (some)",
@@ -8121,7 +8121,7 @@
   },
   {
     "Government name": "Lombard, Illinois",
-    "": "IL",
+    "State": "IL",
     "Building online?": "Online (some)",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -8131,7 +8131,7 @@
   },
   {
     "Government name": "Oro Valley, Arizona",
-    "": "AZ",
+    "State": "AZ",
     "Building online?": "Online (some)",
     "Dog online?": "vet",
     "Business online?": "PDF",
@@ -8141,7 +8141,7 @@
   },
   {
     "Government name": "Marana, Arizona",
-    "": "AZ",
+    "State": "AZ",
     "Building online?": "PDF",
     "Dog online?": "Online (some)",
     "Business online?": "PDF",
@@ -8151,7 +8151,7 @@
   },
   {
     "Government name": "Skokie, Illinois",
-    "": "IL",
+    "State": "IL",
     "Building online?": "Online",
     "Dog online?": "In person",
     "Business online?": "In person",
@@ -8161,7 +8161,7 @@
   },
   {
     "Government name": "Bartlett, Illinois",
-    "": "IL",
+    "State": "IL",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -8171,7 +8171,7 @@
   },
   {
     "Government name": "Glenview, Illinois",
-    "": "IL",
+    "State": "IL",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -8181,7 +8181,7 @@
   },
   {
     "Government name": "Davie, Florida",
-    "": "FL",
+    "State": "FL",
     "Building online?": "PDF",
     "Dog online?": "Online",
     "Business online?": "PDF",
@@ -8191,7 +8191,7 @@
   },
   {
     "Government name": "Sayreville, New Jersey",
-    "": "NJ",
+    "State": "NJ",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -8201,7 +8201,7 @@
   },
   {
     "Government name": "Blacksburg, Virginia",
-    "": "VA",
+    "State": "VA",
     "Building online?": "PDF",
     "Dog online?": "In person",
     "Business online?": "PDF",
@@ -8211,7 +8211,7 @@
   },
   {
     "Government name": "Hoffman Estates, Illinois",
-    "": "IL",
+    "State": "IL",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
@@ -8221,7 +8221,7 @@
   },
   {
     "Government name": "Leesburg, Virginia",
-    "": "VA",
+    "State": "VA",
     "Building online?": "PDF",
     "Dog online?": "PDF",
     "Business online?": "PDF",
